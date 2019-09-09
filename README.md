@@ -220,18 +220,18 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 
 ## Tutorials & examples｜教程 & 示例
 
-1. <kbd>3500+</kbd> **[Practical Pytorch](https://github.com/spro/practical-pytorch)**: Tutorials explaining different RNN models
-2. [DeepLearningForNLPInPytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html): An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
-3. <kbd>13100+</kbd> [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): tutorial for researchers to learn deep learning with pytorch.
-4. <kbd>1000-</kbd> [pytorch-exercises](https://github.com/keon/pytorch-exercises): pytorch-exercises collection. 
-5. <kbd>2600+</kbd> [pytorch tutorials](https://github.com/pytorch/tutorials): Various pytorch tutorials. 
-6. <kbd>9900+</kbd> [pytorch examples](https://github.com/pytorch/examples):  A repository showcasing examples of using pytorch 
-7. <kbd>1000-</kbd> [pytorch practice](https://github.com/napsternxg/pytorch-practice): Some example scripts on pytorch.  
-8. <kbd>1000-</kbd> [pytorch mini tutorials](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials):  Minimal tutorials for PyTorch adapted from Alec Radford's Theano tutorials. 
-9. <kbd>1000-</kbd> [pytorch text classification](https://github.com/xiayandi/Pytorch_text_classification): A simple implementation of CNN based text classification in Pytorch 
-10. <kbd>1000-</kbd> [cats vs dogs](https://github.com/desimone/pytorch-cat-vs-dogs): Example of network fine-tuning in pytorch for the kaggle competition Dogs vs. Cats Redux: Kernels Edition. Currently #27 (0.05074) on the leaderboard.  
-11. <kbd>1000-</kbd> [convnet](https://github.com/eladhoffer/convNet.pytorch): This is a complete training example for Deep Convolutional Networks on various datasets (ImageNet, Cifar10, Cifar100, MNIST).
-12. <kbd>1000-</kbd> [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks): simple generative adversarial network (GAN) using PyTorch.   
+1. <kbd>3500+</kbd> **[Practical Pytorch](https://github.com/spro/practical-pytorch)**: 该教程对不同的RNN模型进行了解释。
+2. [DeepLearningForNLPInPytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html): IPython Notebook 深度学习教程，包含对自然语言处理的强调。
+3. <kbd>13100+</kbd> [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): 面向研究人员的深度学习教程，其中大部分模型的实现代码都少于30行。
+4. <kbd>1000-</kbd> [pytorch-exercises](https://github.com/keon/pytorch-exercises): PyTorch练习集合。
+5. <kbd>2600+</kbd> [pytorch tutorials](https://github.com/pytorch/tutorials): 各种PyTorch教程。
+6. <kbd>9900+</kbd> [pytorch examples](https://github.com/pytorch/examples):  PyTorch使用示例，应用场景包括视觉、文本、强化学习等。
+7. <kbd>1000-</kbd> [pytorch practice](https://github.com/napsternxg/pytorch-practice): PyTorch示例。  
+8. <kbd>1000-</kbd> [pytorch mini tutorials](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials): PyTorch极简教程，改编自Alec Radford的[Theano教程](https://github.com/Newmu/Theano-Tutorials)。
+9. <kbd>1000-</kbd> [pytorch text classification](https://github.com/xiayandi/Pytorch_text_classification): PyTorch实现基于CNN的文本分类。
+10. <kbd>1000-</kbd> [cats vs dogs](https://github.com/desimone/pytorch-cat-vs-dogs): Kaggle 竞赛 Dogs vs. Cats Redux: Kernels Edition 的网络微调示例。
+11. <kbd>1000-</kbd> [convnet](https://github.com/eladhoffer/convNet.pytorch): 深度卷积网络在不同数据集(ImageNet, Cifar10, Cifar100, MNIST)上的完整训练示例。
+12. <kbd>1000-</kbd> [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks): 一个简单的对抗生成网络(GAN) 。
 13. <kbd>1000-</kbd> [pytorch containers](https://github.com/amdegroot/pytorch-containers): This repository aims to help former Torchies more seamlessly transition to the "Containerless" world of PyTorch by providing a list of PyTorch implementations of Torch Table Layers.  
 14. <kbd>1000-</kbd> [T-SNE in pytorch](https://github.com/cemoody/topicsne): t-SNE experiments in pytorch 
 15. <kbd>1000-</kbd> [AAE_pytorch](https://github.com/fducau/AAE_pytorch): Adversarial Autoencoders (with Pytorch). 
