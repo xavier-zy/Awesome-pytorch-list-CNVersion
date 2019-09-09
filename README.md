@@ -35,26 +35,26 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 8. <kbd>3300+</kbd> [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py): 开源神经机器翻译 http://opennmt.net.
 9. <kbd>1500+</kbd> [neuralcoref](https://github.com/huggingface/neuralcoref): 在spaCy中使用神经网络实现快速共指消解。
 10. <kbd>1000-</kbd> [sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery): 基于规模的无监督语言模型在稳健情绪分类中的应用。
-11. <kbd>2100+</kbd> [MUSE](https://github.com/facebookresearch/MUSE): A library for Multilingual Unsupervised or Supervised word Embeddings
-12. <kbd>1000-</kbd> [nmtpytorch](https://github.com/lium-lst/nmtpytorch): Neural Machine Translation Framework in PyTorch.
-13. <kbd>1000-</kbd> [pytorch-wavenet](https://github.com/vincentherrmann/pytorch-wavenet): An implementation of WaveNet with fast generation
-14. <kbd>1000-</kbd> [Tacotron-pytorch](https://github.com/soobinseo/Tacotron-pytorch): Tacotron: Towards End-to-End Speech Synthesis.
-15. <kbd>7000+</kbd> [AllenNLP](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
-16. <kbd>1400+</kbd> [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP): Text utilities and datasets for PyTorch pytorchnlp.readthedocs.io
-17. <kbd>1000-</kbd> [quick-nlp](https://github.com/outcastofmusic/quick-nlp): Pytorch NLP library based on FastAI. 
-18. <kbd>1200+</kbd> [TTS](https://github.com/mozilla/TTS): Deep learning for Text2Speech
-19. <kbd>1900+</kbd> [LASER](https://github.com/facebookresearch/LASER): Language-Agnostic SEntence Representations
-20. <kbd>1000-</kbd> [pyannote-audio](https://github.com/pyannote/pyannote-audio): Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding
-21. <kbd>1000-</kbd> [gensen](https://github.com/Maluuba/gensen): Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning.
-22. <kbd>1000-</kbd> [translate](https://github.com/pytorch/translate): Translate - a PyTorch Language Library.
-23. <kbd>1200+</kbd> [espnet](https://github.com/espnet/espnet): End-to-End Speech Processing Toolkit espnet.github.io/espnet
-24. <kbd>2700+</kbd> [pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering
-25. <kbd>1200+</kbd> [UnsupervisedMT](https://github.com/facebookresearch/UnsupervisedMT): Phrase-Based & Neural Unsupervised Machine Translation.
-26. <kbd>1000-</kbd> [jiant](https://github.com/jsalt18-sentence-repl/jiant): The jiant sentence representation learning toolkit. 
-27. <kbd>2700+</kbd> [BERT-PyTorch](https://github.com/codertimo/BERT-pytorch): Pytorch implementation of Google AI's 2018 BERT, with simple annotation
-28. <kbd>1600+</kbd> [InferSent](https://github.com/facebookresearch/InferSent): Sentence embeddings (InferSent) and training code for NLI.
-29. <kbd>1000-</kbd> [uis-rnn](https://github.com/google/uis-rnn):This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. arxiv.org/abs/1810.04719 
-30. <kbd>7000+</kbd> [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
+11. <kbd>2100+</kbd> [MUSE](https://github.com/facebookresearch/MUSE): 一个多语言无监督或有监督词语嵌入库。
+12. <kbd>1000-</kbd> [nmtpytorch](https://github.com/lium-lst/nmtpytorch): PyTorch中的Sequence-to-Sequence框架。
+13. <kbd>1000-</kbd> [pytorch-wavenet](https://github.com/vincentherrmann/pytorch-wavenet): 快速生成WaveNet的实现。
+14. <kbd>1000-</kbd> [Tacotron-pytorch](https://github.com/soobinseo/Tacotron-pytorch): Tacotron: 端到端语音合成。
+15. <kbd>7000+</kbd> [AllenNLP](https://github.com/allenai/allennlp): 开源NLP研究库，基于PyTorch。[http://www.allennlp.org/](https://allennlp.org)
+16. <kbd>1400+</kbd> [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP): 为加速NLP研究设立的一个库，包含神经网络层、文本处理模块和众多数据集。 pytorchnlp.readthedocs.io
+17. <kbd>1000-</kbd> [quick-nlp](https://github.com/outcastofmusic/quick-nlp): 基于FastAI的Pytorch NLP库。
+18. <kbd>1200+</kbd> [TTS](https://github.com/mozilla/TTS): 文本转语音的深度学习框架。
+19. <kbd>1900+</kbd> [LASER](https://github.com/facebookresearch/LASER): LASER是一个用来计算和使用多语言语句嵌入的库。
+20. <kbd>1000-</kbd> [pyannote-audio](https://github.com/pyannote/pyannote-audio): 用于说话人分类的神经构建块：语音活动检测, 说话人变化检测, 说话人嵌入。
+21. <kbd>1000-</kbd> [gensen](https://github.com/Maluuba/gensen): 基于大规模多任务学习的通用句子表示。
+22. <kbd>1000-</kbd> [translate](https://github.com/pytorch/translate): 翻译——一个PyTorch语言库。
+23. <kbd>1200+</kbd> [espnet](https://github.com/espnet/espnet): 端到端语音处理工具集。 espnet.github.io/espnet
+24. <kbd>2700+</kbd> [pythia](https://github.com/facebookresearch/pythia): 源于FAIR(Facebook AI Research)的视觉与语言多模态研究的模块化框架。
+25. <kbd>1200+</kbd> [UnsupervisedMT](https://github.com/facebookresearch/UnsupervisedMT): 基于短语的神经无监督机器翻译。
+26. <kbd>1000-</kbd> [jiant](https://github.com/jsalt18-sentence-repl/jiant): 通用文本理解模型的jiant工具包。https://jiant.info
+27. <kbd>2700+</kbd> [BERT-PyTorch](https://github.com/codertimo/BERT-pytorch): Google AI 2018 BERT 的 Pytorch 实现，伴有简单注释。
+28. <kbd>1600+</kbd> [InferSent](https://github.com/facebookresearch/InferSent): NLI的句子嵌入(InferSent)和训练代码。
+29. <kbd>1000-</kbd> [uis-rnn](https://github.com/google/uis-rnn):无限交错状态递归神经网络(UIS-RNN)算法，能够从嘈杂的环境中分辨声音，对应论文Fully Supervised Speaker Diarization. arxiv.org/abs/1810.04719
+30. <kbd>7000+</kbd> [flair](https://github.com/zalandoresearch/flair): 一个针对最先进的NLP的简单框架。
 31. <kbd>5300+</kbd> [pytext](https://github.com/facebookresearch/pytext): A natural language modeling framework based on PyTorch fb.me/pytextdocs
 32. <kbd>1000-</kbd> [voicefilter](https://github.com/mindslab-ai/voicefilter): Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter
 33. <kbd>1000-</kbd> [BERT-NER](https://github.com/kamalkraj/BERT-NER): Pytorch-Named-Entity-Recognition-with-BERT. 
