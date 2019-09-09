@@ -86,15 +86,15 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 
 ### Probabilistic/Generative Libraries｜概率库和生成库:
 
-1. <kbd>1000-</kbd> [ptstat](https://github.com/stepelu/ptstat): Probabilistic Programming and Statistical Inference in PyTorch
-2. <kbd>5500+</kbd> [pyro](https://github.com/uber/pyro): Deep universal probabilistic programming with Python and PyTorch http://pyro.ai
-3. <kbd>1000-</kbd> [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch is library for deep generative models that extends PyTorch.
-4. <kbd>1000-</kbd> [paysage](https://github.com/drckf/paysage): Unsupervised learning and generative models in python/pytorch.
-5. <kbd>1000-</kbd> [pyvarinf](https://github.com/ctallec/pyvarinf): Python package facilitating the use of Bayesian Deep Learning methods with Variational Inference for PyTorch. 
-6. <kbd>1000-</kbd> [pyprob](https://github.com/probprog/pyprob): A PyTorch-based library for probabilistic programming and inference compilation.
-7. <kbd>1000-</kbd> [mia](https://github.com/spring-epfl/mia): A library for running membership inference attacks against ML models. 
-8. <kbd>1000-</kbd> [pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch): ProGAN package implemented as an extension of PyTorch nn.Module.
-9. <kbd>1000+</kbd> [botorch](https://github.com/pytorch/botorch): Bayesian optimization in PyTorch
+1. <kbd>1000-</kbd> [ptstat](https://github.com/stepelu/ptstat): 概率编程和统计推断。
+2. <kbd>5500+</kbd> [pyro](https://github.com/uber/pyro): Python 和 PyTorch 的深度通用概率编程。 http://pyro.ai
+3. <kbd>1000-</kbd> [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch是一个扩展了PyTorch的深度生成模型的库。
+4. <kbd>1000-</kbd> [paysage](https://github.com/drckf/paysage): 基于Python/PyTorch的非监督学习和生成模型库。
+5. <kbd>1000-</kbd> [pyvarinf](https://github.com/ctallec/pyvarinf): Python包，促进了带有变分推断的贝叶斯深度学习方法在pytorch中的应用。
+6. <kbd>1000-</kbd> [pyprob](https://github.com/probprog/pyprob): 一个基于PyTorch的概率编程与推断编译的库。
+7. <kbd>1000-</kbd> [mia](https://github.com/spring-epfl/mia): 一个运行针对机器学习模型的成员推理攻击的库。
+8. <kbd>1000-</kbd> [pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch): 作为PyTorch nn.Module的扩展的ProGAN包。
+9. <kbd>1000+</kbd> [botorch](https://github.com/pytorch/botorch): PyTorch中的贝叶斯优化。
 
 ### Other libraries｜其他库:
 
@@ -289,8 +289,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 62. <kbd>1000-</kbd> [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch): This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch.
 63. <kbd>1000-</kbd> [thinking-in-tensors-writing-in-pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch): Thinking in tensors, writing in PyTorch (a hands-on deep learning intro).
 64. <kbd>1000-</kbd> [NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch): PyTorch solution of named entity recognition task Using Google AI's pre-trained BERT model.
-65. <kbd>1000-</kbd> [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): How to use Cross Replica / Synchronized Batchnorm in Pytorch. 
-
+65. <kbd>1000-</kbd> [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): How to use Cross Replica / Synchronized Batchnorm in Pytorch.
 
 ## Paper implementations｜论文实现
 
@@ -630,17 +629,16 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 332. <kbd>1000-</kbd> [breast_cancer_classifier](https://github.com/nyukat/breast_cancer_classifier): Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening arxiv.org/abs/1903.08297
 333. <kbd>1000-</kbd> [DGC-Net](https://github.com/AaltoVision/DGC-Net): A PyTorch implementation of "DGC-Net: Dense Geometric Correspondence Network".
 
-
 ## Talks & conferences｜报告 & 会议
 
-1. [PyTorch Conference 2018](https://developers.facebook.com/videos/2018/pytorch-developer-conference/): First PyTorch developer conference at 2018.
+1. [PyTorch Conference 2018](https://developers.facebook.com/videos/2018/pytorch-developer-conference/): 2018年首届PyTorch开发者大会。
 
 ## Pytorch elsewhere ｜ Pytorch相关
 
-1. <kbd>3900+</kbd> [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)**: The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. 
-2. <kbd>5400+</kbd> [generative models](https://github.com/wiseodd/generative-models): Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch. http://wiseodd.github.io  
-3. [pytorch vs tensorflow](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/): an informative thread on reddit. 
-4. [Pytorch discussion forum](https://discuss.pytorch.org/)  
+1. <kbd>3900+</kbd> [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)**: 不可思议的Pythorch：一份PyTorch相关的教程、论文、项目、社区等的清单。
+2. <kbd>5400+</kbd> [generative models](https://github.com/wiseodd/generative-models): 各种生成模型，例如基于Pytorch和Tensorflow的GAN、VAE。 http://wiseodd.github.io  
+3. [pytorch vs tensorflow](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/): Reddit上的PyTorch和TensorFlow的比较文章。
+4. [Pytorch discussion forum](https://discuss.pytorch.org/): PyTorch论坛。
 5. <kbd>null</kbd> [pytorch notebook: docker-stack](https://hub.docker.com/r/escong/pytorch-notebook/): A project similar to [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook)
 6. <kbd>1000-</kbd> [drawlikebobross](https://github.com/kendricktan/drawlikebobross): Draw like Bob Ross using the power of Neural Networks (With PyTorch)!
 7. <kbd>1000-</kbd> [pytorch-tvmisc](https://github.com/t-vi/pytorch-tvmisc): Totally Versatile Miscellanea for Pytorch
