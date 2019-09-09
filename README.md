@@ -64,26 +64,25 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 
 ### CV｜计算机视觉:
 
-1. <kbd>4200+</kbd> [pytorch vision](https://github.com/pytorch/vision): Datasets, Transforms and Models specific to Computer Vision.
-2. <kbd>1000-</kbd> [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): Neural style transfer as a class in PyTorch.
-3. <kbd>1000-</kbd> [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch):  PyTorch module to use OpenFace's nn4.small2.v1.t7 model
-4. <kbd>1000-</kbd> [img_classification_pk_pytorch](https://github.com/felixgwu/img_classification_pk_pytorch): Quickly comparing your image classification models with the state-of-the-art models (such as DenseNet, ResNet, ...)
-5. <kbd>1000-</kbd> [SparseConvNet](https://github.com/facebookresearch/SparseConvNet): Submanifold sparse convolutional networks.
-6. <kbd>1000-</kbd> [Convolution_LSTM_pytorch](https://github.com/automan000/Convolution_LSTM_pytorch): A multi-layer convolution LSTM module
-7. <kbd>3100+</kbd> [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 2D and 3D Face alignment library build using pytorch adrianbulat.com
-8. <kbd>1000+</kbd> [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): PyTorch for Semantic Segmentation.
-9. <kbd>1000-</kbd> [RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch): This is a PyTorch version of RoIAlign. This implementation is based on crop_and_resize and supports both forward and backward on CPU and GPU.
-10. <kbd>1000-</kbd> [pytorch-cnn-finetune](https://github.com/creafz/pytorch-cnn-finetune): Fine-tune pretrained Convolutional Neural Networks with PyTorch.
-11. <kbd>1000-</kbd> [detectorch](https://github.com/ignacio-rocco/detectorch): Detectorch - detectron for PyTorch
-12. <kbd>3400+</kbd> [Augmentor](https://github.com/mdbloice/Augmentor): Image augmentation library in Python for machine learning. http://augmentor.readthedocs.io
-13. <kbd>1000-</kbd> [s2cnn](https://github.com/jonas-koehler/s2cnn): 
-This library contains a PyTorch implementation of the SO(3) equivariant CNNs for spherical signals (e.g. omnidirectional cameras, signals on the globe)
-14. <kbd>1000-</kbd> [PyTorchCV](https://github.com/CVBox/PyTorchCV): A PyTorch-Based Framework for Deep Learning in Computer Vision. 
-15. <kbd>6300+</kbd> [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark): Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
-16. <kbd>1000-</kbd> [image-classification-mobile](https://github.com/osmr/imgclsmob): Collection of classification models pretrained on the ImageNet-1K.
-17. <kbd>1000-</kbd> [medicaltorch](https://github.com/perone/medicaltorch): A medical imaging framework for Pytorch http://medicaltorch.readthedocs.io
-18. <kbd>3000+</kbd> [albumentations](https://github.com/albu/albumentations): Fast image augmentation library.
-19. <kbd>1000-</kbd> [kornia](https://github.com/arraiyopensource/kornia): Differentiable computer vision library.
+1. <kbd>4200+</kbd> [pytorch vision](https://github.com/pytorch/vision): TorchVision包含流行的数据集、模型架构、计算机视觉中常用的图像变换。
+2. <kbd>1000-</kbd> [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): 作为PyTorch中一个类的神经风格转移。
+3. <kbd>1000-</kbd> [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch): 使用OpenFace的nn4.small2.v1.t7模型的PyTorch模块。
+4. <kbd>1000-</kbd> [img_classification_pk_pytorch](https://github.com/felixgwu/img_classification_pk_pytorch): 将你的图像分类模型和最先进的模型进行快速比较 (比如DenseNet, ResNet, ...)
+5. <kbd>1000-</kbd> [SparseConvNet](https://github.com/facebookresearch/SparseConvNet): 子流形稀疏卷积神经网络。
+6. <kbd>1000-</kbd> [Convolution_LSTM_pytorch](https://github.com/automan000/Convolution_LSTM_pytorch): 多层卷积LSTM(长短期记忆网络)模块。
+7. <kbd>3100+</kbd> [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 使用pytorch构建2D和3D人脸比对库。 adrianbulat.com
+8. <kbd>1000+</kbd> [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): 语义分割。
+9. <kbd>1000-</kbd> [RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch): PyTorch版本的RoIAlign。其实现基于crop_and_resize，支持CPU和GPU上的前向和后向。
+10. <kbd>1000-</kbd> [pytorch-cnn-finetune](https://github.com/creafz/pytorch-cnn-finetune): 用PyTorch微调预训练卷积神经网络。
+11. <kbd>1000-</kbd> [detectorch](https://github.com/ignacio-rocco/detectorch): Detectorch - PyTorch版detectron框架，目前仅有detectron的推断(inference)和评估(evalutaion)功能，无训练(training)功能。
+12. <kbd>3400+</kbd> [Augmentor](https://github.com/mdbloice/Augmentor): 用于机器学习的图像增强库。 http://augmentor.readthedocs.io
+13. <kbd>1000-</kbd> [s2cnn](https://github.com/jonas-koehler/s2cnn): Spherical CNNs：球面卷积网络的PyTorch实现。 (e.g. 全方位图像、全球信号)
+14. <kbd>1000-</kbd> [PyTorchCV](https://github.com/CVBox/PyTorchCV): 基于PyTorch的计算机视觉深度学习框架。
+15. <kbd>6300+</kbd> [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark): 实例分割与对象检测的快速模块化参考实现。
+16. <kbd>1000-</kbd> [image-classification-mobile](https://github.com/osmr/imgclsmob): 计算机视觉卷积网络训练沙盒，包含ImageNet-1K上的与训练分类模型集合。
+17. <kbd>1000-</kbd> [medicaltorch](https://github.com/perone/medicaltorch): 一个医学成像框架。http://medicaltorch.readthedocs.io
+18. <kbd>3000+</kbd> [albumentations](https://github.com/albu/albumentations): 快速图像增强库和其他库的易用包装器。
+19. <kbd>1000-</kbd> [kornia](https://github.com/arraiyopensource/kornia): 开源可微计算机视觉库。https://kornia.org
 
 ### Probabilistic/Generative Libraries｜概率库和生成库:
 
