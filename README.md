@@ -218,13 +218,9 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 119. <kbd>1000-</kbd> [argus-tensor-stream](https://github.com/Fonbet/argus-tensor-stream): A library for real-time video stream decoding to CUDA memory tensorstream.argus-ai.com
 120. <kbd>1000-</kbd> [macarico](https://github.com/hal3/macarico): learning to search in pytorch
 
-
-
-
-
 ## Tutorials & examples｜教程 & 示例
 
-1. <kbd>3500+</kbd> [Practical Pytorch](https://github.com/spro/practical-pytorch)**: Tutorials explaining different RNN models
+1. <kbd>3500+</kbd> **[Practical Pytorch](https://github.com/spro/practical-pytorch)**: Tutorials explaining different RNN models
 2. [DeepLearningForNLPInPytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html): An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
 3. <kbd>13100+</kbd> [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): tutorial for researchers to learn deep learning with pytorch.
 4. <kbd>1000-</kbd> [pytorch-exercises](https://github.com/keon/pytorch-exercises): pytorch-exercises collection. 
@@ -242,7 +238,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 16. <kbd>1000-</kbd> [Kind_PyTorch_Tutorial](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial): Kind PyTorch Tutorial for beginners.  
 17. <kbd>1000-</kbd> [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen): a char-RNN based on pytorch.  
 18. <kbd>1000-</kbd> [pytorch-REINFORCE](https://github.com/JamesChuanggg/pytorch-REINFORCE): PyTorch implementation of REINFORCE, This repo supports both continuous and discrete environments in OpenAI gym.
-19. <kbd>3600+</kbd> [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)**: Build your neural network easy and fast  https://morvanzhou.github.io/tutorials/ 
+19. <kbd>3600+</kbd> **[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)**: Build your neural network easy and fast  https://morvanzhou.github.io/tutorials/ 
 20. <kbd>1000-</kbd> [pytorch-intro](https://github.com/joansj/pytorch-intro): A couple of scripts to illustrate how to do CNNs and RNNs in PyTorch
 21. <kbd>1000-</kbd> [pytorch-classification](https://github.com/bearpaw/pytorch-classification): A unified framework for the image classification task on CIFAR-10/100 and ImageNet.
 22. <kbd>1000-</kbd> [pytorch_notebooks - hardmaru](https://github.com/hardmaru/pytorch_notebooks): Random tutorials created in NumPy and PyTorch.
@@ -356,7 +352,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 61. <kbd>1000-</kbd> [PyTorch-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer): PyTorch Implementation of Multi-style Generative Network for Real-time Transfer
 62. <kbd>1000-</kbd> [pytorch-deeplab-resnet](https://github.com/isht7/pytorch-deeplab-resnet): pytorch-deeplab-resnet-model.
 63. <kbd>1000-</kbd> [pointnet.pytorch](https://github.com/fxia22/pointnet.pytorch): pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593  
-64. <kbd>1600+</kbd> [pytorch-playground](https://github.com/aaron-xichen/pytorch-playground): Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)**.
+64. <kbd>1600+</kbd> **[pytorch-playground](https://github.com/aaron-xichen/pytorch-playground): Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)**.
 65. <kbd>1000-</kbd> [pytorch-dnc](https://github.com/jingweiz/pytorch-dnc): Neural Turing Machine (NTM) & Differentiable Neural Computer (DNC) with pytorch & visdom. 
 66. <kbd>1000-</kbd> [pytorch_image_classifier](https://github.com/jinfagang/pytorch_image_classifier): Minimal But Practical Image Classifier Pipline Using Pytorch, Finetune on ResNet18, Got 99% Accuracy on Own Small Datasets.  
 67. <kbd>1000-</kbd> [mnist-svhn-transfer](https://github.com/yunjey/mnist-svhn-transfer): PyTorch Implementation of CycleGAN and SGAN for Domain Transfer (Minimal).
@@ -635,41 +631,41 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 
 ## Pytorch elsewhere ｜ Pytorch相关
 
-1. <kbd>3900+</kbd> [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)**: 不可思议的Pythorch：一份PyTorch相关的教程、论文、项目、社区等的清单。
+1. <kbd>3900+</kbd> **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)**: 不可思议的Pythorch：一份PyTorch相关的教程、论文、项目、社区等的清单。
 2. <kbd>5400+</kbd> [generative models](https://github.com/wiseodd/generative-models): 各种生成模型，例如基于Pytorch和Tensorflow的GAN、VAE。 http://wiseodd.github.io  
 3. [pytorch vs tensorflow](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/): Reddit上的PyTorch和TensorFlow的比较文章。
 4. [Pytorch discussion forum](https://discuss.pytorch.org/): PyTorch论坛。
-5. <kbd>null</kbd> [pytorch notebook: docker-stack](https://hub.docker.com/r/escong/pytorch-notebook/): A project similar to [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook)
-6. <kbd>1000-</kbd> [drawlikebobross](https://github.com/kendricktan/drawlikebobross): Draw like Bob Ross using the power of Neural Networks (With PyTorch)!
-7. <kbd>1000-</kbd> [pytorch-tvmisc](https://github.com/t-vi/pytorch-tvmisc): Totally Versatile Miscellanea for Pytorch
-8. <kbd>1000-</kbd> [pytorch-a3c-mujoco](https://github.com/andrewliao11/pytorch-a3c-mujoco): Implement A3C for Mujoco gym envs.
+5. <kbd>null</kbd> [pytorch notebook: docker-stack](https://hub.docker.com/r/escong/pytorch-notebook/): 类似于 [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook)
+6. <kbd>1000-</kbd> [drawlikebobross](https://github.com/kendricktan/drawlikebobross): 使用神经网络作画！
+7. <kbd>1000-</kbd> [pytorch-tvmisc](https://github.com/t-vi/pytorch-tvmisc): 该仓库收集了作者用PyTorch实现的各种玩意儿。
+8. <kbd>1000-</kbd> [pytorch-a3c-mujoco](https://github.com/andrewliao11/pytorch-a3c-mujoco): 该项目旨在解决Mujoco中的控制问题，高度基于pytorch-a3c。
 9. [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&list=WL&index=9).
-10. <kbd>1000-</kbd> [pytorch_chatbot](https://github.com/jinfagang/pytorch_chatbot): A Marvelous ChatBot implemented using PyTorch.
-11. <kbd>1000-</kbd> [malmo-challenge](https://github.com/Kaixhin/malmo-challenge): Malmo Collaborative AI Challenge - Team Pig Catcher
-12. <kbd>1000-</kbd> [sketchnet](https://github.com/jtoy/sketchnet): A model that takes an image and generates Processing source code to regenerate that image
-13. <kbd>1100+</kbd> [Deep-Learning-Boot-Camp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp): A nonprofit community run, 5-day Deep Learning Bootcamp http://deep-ml.com. 
-14. <kbd>1000-</kbd> [Amazon_Forest_Computer_Vision](https://github.com/mratsim/Amazon_Forest_Computer_Vision): Satellite Image tagging code using PyTorch / Keras with lots of PyTorch tricks. kaggle competition.
-15. <kbd>1600+</kbd> [AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku): An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)
-16. <kbd>null</kbd> [pytorch-cv](https://github.com/youansheng/pytorch-cv): Repo for Object Detection, Segmentation & Pose Estimation.
-17. <kbd>1400+</kbd> [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid): Pytorch implementation of deep person re-identification approaches.
-18. <kbd>1200+</kbd> [pytorch-template](https://github.com/victoresque/pytorch-template): PyTorch template project
-19. <kbd>null</kbd> [Deep Learning With Pytorch TextBook](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) A practical guide to build neural network models in text and vision using PyTorch. [Purchase on Amazon ](https://www.amazon.in/Deep-Learning-PyTorch-practical-approach/dp/1788624335/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1523853954&sr=8-1)     [github code repo](https://github.com/svishnu88/DLwithPyTorch) 
-20. <kbd>1000-</kbd> [compare-tensorflow-pytorch](https://github.com/jalola/compare-tensorflow-pytorch): Compare outputs between layers written in Tensorflow and layers written in Pytorch.
-21. <kbd>1000-</kbd> [hasktorch](https://github.com/hasktorch/hasktorch): Tensors and neural networks in Haskell
-22. [Deep Learning With Pytorch](https://www.manning.com/books/deep-learning-with-pytorch) Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch. 
-23. <kbd>1000-</kbd> [nimtorch](https://github.com/fragcolor-xyz/nimtorch): PyTorch - Python + Nim
-24. <kbd>1000-</kbd> [derplearning](https://github.com/John-Ellis/derplearning): Self Driving RC Car Code. 
-25. <kbd>1000-</kbd> [pytorch-saltnet](https://github.com/tugstugi/pytorch-saltnet): Kaggle | 9th place single model solution for TGS Salt Identification Challenge.
-26. <kbd>1000-</kbd> [pytorch-scripts](https://github.com/peterjc123/pytorch-scripts): A few Windows specific scripts for PyTorch.
-27. <kbd>1000-</kbd> [pytorch_misc](https://github.com/ptrblck/pytorch_misc): Code snippets created for the PyTorch discussion board.
-28. <kbd>1000-</kbd> [awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship): A list of awesome PyTorch scholarship articles, guides, blogs, courses and other resources.
-29. <kbd>1000-</kbd> [MentisOculi](https://github.com/mmirman/MentisOculi): A raytracer written in PyTorch (raynet?)
-30. <kbd>2400+</kbd> [DoodleMaster](https://github.com/karanchahal/DoodleMaster): "Don't code your UI, Draw it !"
-31. <kbd>1000-</kbd> [ocaml-torch](https://github.com/LaurentMazare/ocaml-torch): OCaml bindings for PyTorch.
-32. <kbd>1000-</kbd> [extension-script](https://github.com/pytorch/extension-script): Example repository for custom C++/CUDA operators for TorchScript.
-33. <kbd>1000-</kbd> [pytorch-inference](https://github.com/zccyman/pytorch-inference): PyTorch 1.0 inference in C++ on Windows10 platforms. 
-34. <kbd>1000-</kbd> [pytorch-cpp-inference](https://github.com/Wizaron/pytorch-cpp-inference): Serving PyTorch 1.0 Models as a Web Server in C++.
-35. <kbd>1000-</kbd> [tch-rs](https://github.com/LaurentMazare/tch-rs): Rust bindings for PyTorch.
-36. <kbd>1000-</kbd> [TorchSharp](https://github.com/interesaaat/TorchSharp): .NET bindings for the Pytorch engine
+10. <kbd>1000-</kbd> [pytorch_chatbot](https://github.com/jinfagang/pytorch_chatbot): 用PyTorch实现的聊天机器人。
+11. <kbd>1000-</kbd> [malmo-challenge](https://github.com/Kaixhin/malmo-challenge): Malmo协作人工智能挑战-Pig Catcher团队。
+12. <kbd>1000-</kbd> [sketchnet](https://github.com/jtoy/sketchnet): 指导计算机作画。http://www.jtoy.net/projects/sketchnet/
+13. <kbd>1100+</kbd> [Deep-Learning-Boot-Camp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp): 非盈利社区运营的5天深度学习训练营。 http://deep-ml.com.
+14. <kbd>1000-</kbd> [Amazon_Forest_Computer_Vision](https://github.com/mratsim/Amazon_Forest_Computer_Vision): 亚马逊森林计算机视觉：使用PyTorch标记卫星图像标记/Keras中的PyTorch技巧。
+15. <kbd>1600+</kbd> [AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku): 用AlphaZero算法玩五子棋。
+16. <kbd>null</kbd> [pytorch-cv](https://github.com/youansheng/pytorch-cv): null.
+17. <kbd>1400+</kbd> [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid): Pytorch实现深度学习行人重新识别方法。
+18. <kbd>1200+</kbd> [pytorch-template](https://github.com/victoresque/pytorch-template): PyTorch深度学习模版。
+19. <kbd>1000-</kbd> [Deep Learning With Pytorch](https://github.com/svishnu88/DLwithPyTorch): 随书代码《[Deep Learning With Pytorch TextBook](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch)》 PyTorch实用指南：使用PyTorch建立文本和视觉神经网络模型。[亚马逊中国电子版](https://www.amazon.cn/dp/B078THDX3J/ref=sr_1_1?__mk_zh_CN=亚马逊网站&keywords=Deep+Learning+with+PyTorch&qid=1568007543&s=gateway&sr=8-1)
+20. <kbd>1000-</kbd> [compare-tensorflow-pytorch](https://github.com/jalola/compare-tensorflow-pytorch): 比较用Tensorflow编写的层和用Pytorch编写的层之间的输出。
+21. <kbd>1000-</kbd> [hasktorch](https://github.com/hasktorch/hasktorch): Haskell中的张量与神经网络。
+22. [Deep Learning With Pytorch](https://www.manning.com/books/deep-learning-with-pytorch) Deep Learning with PyTorch 教你如何用Python和PyTorch实现深度学习算法。
+23. <kbd>1000-</kbd> [nimtorch](https://github.com/fragcolor-xyz/nimtorch): PyTorch - Python + Nim，PyTorch的Nim前端。
+24. <kbd>1000-</kbd> [derplearning](https://github.com/John-Ellis/derplearning): 自动驾驶遥控车代码。
+25. <kbd>1000-</kbd> [pytorch-saltnet](https://github.com/tugstugi/pytorch-saltnet): Kaggle | TGS Salt Identification Challenge 第9名解决方案。
+26. <kbd>1000-</kbd> [pytorch-scripts](https://github.com/peterjc123/pytorch-scripts): 一些脚本，使在Windows上使用PyTorch更加容易。
+27. <kbd>1000-</kbd> [pytorch_misc](https://github.com/ptrblck/pytorch_misc): 为PyTorch讨论板创建的代码片段。
+28. <kbd>1000-</kbd> [awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship): 收集了一系列优秀的PyTorch学术文章、指南、博客、课程和其他资源。
+29. <kbd>1000-</kbd> [MentisOculi](https://github.com/mmirman/MentisOculi): PyTorch版raytracer。(raynet?)
+30. <kbd>2400+</kbd> [DoodleMaster](https://github.com/karanchahal/DoodleMaster): “画出UI！”("Don't code your UI, Draw it !")
+31. <kbd>1000-</kbd> [ocaml-torch](https://github.com/LaurentMazare/ocaml-torch): ocaml-torch为PyTorch张量库提供一些ocaml绑定。
+32. <kbd>1000-</kbd> [extension-script](https://github.com/pytorch/extension-script): TorchScript自定义C++/CUDA运算符的示例。
+33. <kbd>1000-</kbd> [pytorch-inference](https://github.com/zccyman/pytorch-inference):  Windows10 平台上 Pytorch 1.0在 C++ 中的推断。
+34. <kbd>1000-</kbd> [pytorch-cpp-inference](https://github.com/Wizaron/pytorch-cpp-inference): 包含使用PyTorch C++ API执行推断的各种示例。
+35. <kbd>1000-</kbd> [tch-rs](https://github.com/LaurentMazare/tch-rs): PyTorch的Rust绑定。
+36. <kbd>1000-</kbd> [TorchSharp](https://github.com/interesaaat/TorchSharp): Pytorch引擎的.NET绑定。
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
