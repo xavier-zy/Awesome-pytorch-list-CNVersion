@@ -232,60 +232,59 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 10. <kbd>1000-</kbd> [cats vs dogs](https://github.com/desimone/pytorch-cat-vs-dogs): Kaggle 竞赛 Dogs vs. Cats Redux: Kernels Edition 的网络微调示例。
 11. <kbd>1000-</kbd> [convnet](https://github.com/eladhoffer/convNet.pytorch): 深度卷积网络在不同数据集(ImageNet, Cifar10, Cifar100, MNIST)上的完整训练示例。
 12. <kbd>1000-</kbd> [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks): 一个简单的对抗生成网络(GAN) 。
-13. <kbd>1000-</kbd> [pytorch containers](https://github.com/amdegroot/pytorch-containers): This repository aims to help former Torchies more seamlessly transition to the "Containerless" world of PyTorch by providing a list of PyTorch implementations of Torch Table Layers.  
-14. <kbd>1000-</kbd> [T-SNE in pytorch](https://github.com/cemoody/topicsne): t-SNE experiments in pytorch 
-15. <kbd>1000-</kbd> [AAE_pytorch](https://github.com/fducau/AAE_pytorch): Adversarial Autoencoders (with Pytorch). 
-16. <kbd>1000-</kbd> [Kind_PyTorch_Tutorial](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial): Kind PyTorch Tutorial for beginners.  
-17. <kbd>1000-</kbd> [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen): a char-RNN based on pytorch.  
-18. <kbd>1000-</kbd> [pytorch-REINFORCE](https://github.com/JamesChuanggg/pytorch-REINFORCE): PyTorch implementation of REINFORCE, This repo supports both continuous and discrete environments in OpenAI gym.
-19. <kbd>3600+</kbd> **[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)**: Build your neural network easy and fast  https://morvanzhou.github.io/tutorials/ 
-20. <kbd>1000-</kbd> [pytorch-intro](https://github.com/joansj/pytorch-intro): A couple of scripts to illustrate how to do CNNs and RNNs in PyTorch
-21. <kbd>1000-</kbd> [pytorch-classification](https://github.com/bearpaw/pytorch-classification): A unified framework for the image classification task on CIFAR-10/100 and ImageNet.
-22. <kbd>1000-</kbd> [pytorch_notebooks - hardmaru](https://github.com/hardmaru/pytorch_notebooks): Random tutorials created in NumPy and PyTorch.
-23. <kbd>1000-</kbd> [pytorch_tutoria-quick](https://github.com/soravux/pytorch_tutorial): Quick PyTorch introduction and tutorial. Targets computer vision, graphics and machine learning researchers eager to try a new framework.  
-24. <kbd>1000-</kbd> [Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial): A short tutorial on performing fine tuning or transfer learning in PyTorch.
-25. <kbd>1000-</kbd> [pytorch_exercises](https://github.com/Kyubyong/pytorch_exercises): pytorch-exercises 
-26. <kbd>1000-</kbd> [traffic-sign-detection](https://github.com/soumith/traffic-sign-detection-homework): nyu-cv-fall-2017 example
-27. <kbd>1000-</kbd> [mss_pytorch](https://github.com/Js-Mim/mss_pytorch): Singing Voice Separation via Recurrent Inference and Skip-Filtering Connections - PyTorch Implementation. Demo: js-mim.github.io/mss_pytorch
-28. <kbd>2100+</kbd> [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ: NLP with Deep Learning)
-29. <kbd>1000-</kbd> [Mila introductory tutorials](https://github.com/mila-udem/welcome_tutorials): Various tutorials given for welcoming new students at MILA.
-30. <kbd>1000-</kbd> [pytorch.rl.learning](https://github.com/moskomule/pytorch.rl.learning): for learning reinforcement learning using PyTorch.
-31. <kbd>1000-</kbd> [minimal-seq2seq](https://github.com/keon/seq2seq): Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch
-32. <kbd>1000-</kbd> [tensorly-notebooks](https://github.com/JeanKossaifi/tensorly-notebooks): Tensor methods in Python with TensorLy tensorly.github.io/dev
-33. <kbd>1000-</kbd> [pytorch_bits](https://github.com/jpeg729/pytorch_bits): time-series prediction related examples.
-34. <kbd>1000-</kbd> [skip-thoughts](https://github.com/sanyam5/skip-thoughts): An implementation of Skip-Thought Vectors in PyTorch.
-35. <kbd>1000-</kbd> [video-caption-pytorch](https://github.com/xiadingZ/video-caption-pytorch): pytorch code for video captioning. 
-36. <kbd>1000-</kbd> [Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial): Pytorch easy-to-follow Capsule Network tutorial.
-37. <kbd>1400+</kbd> [code-of-learn-deep-learning-with-pytorch](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch): This is code of book "Learn Deep Learning with PyTorch" item.jd.com/17915495606.html
-38. <kbd>1600+</kbd> [RL-Adventure](https://github.com/higgsfield/RL-Adventure): Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code.
-39. <kbd>1000-</kbd> [accelerated_dl_pytorch](https://github.com/hpcgarage/accelerated_dl_pytorch): Accelerated Deep Learning with PyTorch at Jupyter Day Atlanta II. 
-40. <kbd>1800+</kbd> [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2): PyTorch4 tutorial of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
-41. [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
-42. [adversarial-autoencoders-with-pytorch](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
-43. [transfer learning using pytorch](https://medium.com/@vishnuvig/transfer-learning-using-pytorch-4c3475f4495)
-44. [how-to-implement-a-yolo-object-detector-in-pytorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
-45. [pytorch-for-recommenders-101](http://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html)
-46. <kbd>1000-</kbd> [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users)
-47. [PyTorch Tutorial](http://www.pytorchtutorial.com/): PyTorch Tutorials in Chinese.
-48. <kbd>1000-</kbd> [grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch): The Hitchiker's Guide to PyTorch
-49. <kbd>1100+</kbd> [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse): Minicourse in Deep Learning with PyTorch.
-50. <kbd>1000-</kbd> [pytorch-custom-dataset-examples](https://github.com/utkuozbulak/pytorch-custom-dataset-examples): Some custom dataset examples for PyTorch
-51. [Multiplicative LSTM for sequence-based Recommenders](https://florianwilhelm.info/2018/08/multiplicative_LSTM_for_sequence_based_recos/)
-52. <kbd>1000-</kbd> [deeplearning.ai-pytorch](https://github.com/furkanu/deeplearning.ai-pytorch): PyTorch Implementations of Coursera's Deep Learning(deeplearning.ai) Specialization. 
-53. <kbd>1000-</kbd> [MNIST_Pytorch_python_and_capi](https://github.com/tobiascz/MNIST_Pytorch_python_and_capi): This is an example of how to train a MNIST network in Python and run it in c++ with pytorch 1.0
-54. <kbd>1000-</kbd> [torch_light](https://github.com/ne7ermore/torch_light): Tutorials and examples include Reinforcement Training, NLP, CV
-55. <kbd>1000-</kbd> [portrain-gan](https://github.com/dribnet/portrain-gan): torch code to decode (and almost encode) latents from art-DCGAN's Portrait GAN.
-56. <kbd>1000-</kbd> [mri-analysis-pytorch](https://github.com/omarsar/mri-analysis-pytorch): MRI analysis using PyTorch and MedicalTorch
-57. <kbd>1000-</kbd> [cifar10-fast](https://github.com/davidcpage/cifar10-fast): 
-Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 seconds as described in this [blog series](https://www.myrtle.ai/2018/09/24/how_to_train_your_resnet/).
-58. [Intro to Deep Learning with PyTorch](https://in.udacity.com/course/deep-learning-pytorch--ud188): A free course by Udacity and facebook, with a good intro to PyTorch, and an interview with Soumith Chintala, one of the original authors of PyTorch.
-59. <kbd>1000+</kbd> [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis): Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
-60. <kbd>1600+</kbd> [pytorch-image-models](https://github.com/rwightman/pytorch-image-models): PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more.
-61. <kbd>1000-</kbd> [CIFAR-ZOO](https://github.com/BIGBALLON/CIFAR-ZOO): Pytorch implementation for multiple CNN architectures and improve methods with state-of-the-art results. 
-62. <kbd>1000-</kbd> [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch): This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch.
-63. <kbd>1000-</kbd> [thinking-in-tensors-writing-in-pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch): Thinking in tensors, writing in PyTorch (a hands-on deep learning intro).
-64. <kbd>1000-</kbd> [NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch): PyTorch solution of named entity recognition task Using Google AI's pre-trained BERT model.
-65. <kbd>1000-</kbd> [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): How to use Cross Replica / Synchronized Batchnorm in Pytorch.
+13. <kbd>1000-</kbd> [pytorch containers](https://github.com/amdegroot/pytorch-containers): PyTorch中简化的Torch容器。
+14. <kbd>1000-</kbd> [T-SNE in pytorch](https://github.com/cemoody/topicsne): t-SNE实验。
+15. <kbd>1000-</kbd> [AAE_pytorch](https://github.com/fducau/AAE_pytorch): PyTorch版对抗自编码器。
+16. <kbd>1000-</kbd> [Kind_PyTorch_Tutorial](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial): PyTorch新手教程。  
+17. <kbd>1000-</kbd> [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen): 基于PyTorch的char-RNN（字符级循环神经网络）。  
+18. <kbd>1000-</kbd> [pytorch-REINFORCE](https://github.com/JamesChuanggg/pytorch-REINFORCE): PyTorch 实现了 OpenAI gym 下离散和连续控制的 REINFORCE。
+19. <kbd>3600+</kbd> **[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)**: 简单而快速地搭建你自己的神经网络。 https://morvanzhou.github.io/tutorials/
+20. <kbd>1000-</kbd> [pytorch-intro](https://github.com/joansj/pytorch-intro): 演示如何在PyTorch中实现CNNs和RNNs。
+21. <kbd>1000-</kbd> [pytorch-classification](https://github.com/bearpaw/pytorch-classification): 一个CIFAR-10/100和ImageNet数据集上的分类框架。
+22. <kbd>1000-</kbd> [pytorch_notebooks - hardmaru](https://github.com/hardmaru/pytorch_notebooks): 用NumPy和PyTorch编写的随机教程。
+23. <kbd>1000-</kbd> [pytorch_tutoria-quick](https://github.com/soravux/pytorch_tutorial): PyTorch介绍和教程。面向计算机视觉、图形和机器学习领域的研究人员，要求对神经网络理论知识和常用神经网络框架由基本的了解。
+24. <kbd>1000-</kbd> [Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial): 在PyTorch中进行微调或转移学习的简短教程。
+25. <kbd>1000-</kbd> [pytorch_exercises](https://github.com/Kyubyong/pytorch_exercises): PyTorch练习。
+26. <kbd>1000-</kbd> [traffic-sign-detection](https://github.com/soumith/traffic-sign-detection-homework): 纽约大学2018年计算机视觉秋季课程示例。
+27. <kbd>1000-</kbd> [mss_pytorch](https://github.com/Js-Mim/mss_pytorch): 无需进行滤波后处理，利用循环推断算法实现歌唱语音分离 - PyTorch 实现。 演示: js-mim.github.io/mss_pytorch
+28. <kbd>2100+</kbd> [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) cs-224n课程中的各种深度NLP模型的PyTorch实现。(Stanford Univ: NLP with Deep Learning)
+29. <kbd>1000-</kbd> [Mila introductory tutorials](https://github.com/mila-udem/welcome_tutorials): 面向MILA新生的各种教程。（[MILA：加拿大蒙特利尔人工智能研究中心](https://mila.quebec/en/mila/)）
+30. <kbd>1000-</kbd> [pytorch.rl.learning](https://github.com/moskomule/pytorch.rl.learning): 使用PyTorch学习强化学习。
+31. <kbd>1000-</kbd> [minimal-seq2seq](https://github.com/keon/seq2seq): 关注神经机器翻译的最小Seq2Seq模型。
+32. <kbd>1000-</kbd> [tensorly-notebooks](https://github.com/JeanKossaifi/tensorly-notebooks): 利用Python和TensorLy实现张量方法。 tensorly.github.io/dev
+33. <kbd>1000-</kbd> [pytorch_bits](https://github.com/jpeg729/pytorch_bits): 时序预测的相关示例。
+34. <kbd>1000-</kbd> [skip-thoughts](https://github.com/sanyam5/skip-thoughts): PyTorch实现Skip-Thought词向量模型。
+35. <kbd>1000-</kbd> [video-caption-pytorch](https://github.com/xiadingZ/video-caption-pytorch): 利用PyTorch为视频添加字幕。
+36. <kbd>1000-</kbd> [Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial): 简单易学的胶囊网络（Capsule Network）教程。
+37. <kbd>1400+</kbd> [code-of-learn-deep-learning-with-pytorch](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch): 《深度学习入门之PyTorch》书中代码。 item.jd.com/17915495606.html
+38. <kbd>1600+</kbd> [RL-Adventure](https://github.com/higgsfield/RL-Adventure): Pytorch 版 Deep Q Learning 教程，简单、易学、代码可读性强，包含 DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL 的 PyTorch 实现。
+39. <kbd>1000-</kbd> [accelerated_dl_pytorch](https://github.com/hpcgarage/accelerated_dl_pytorch): Jupyter Day Atlanta II 会议上的加速深度学习算法，包含 PyTorch 教程和会议演讲文稿。
+40. <kbd>1800+</kbd> [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2): 以下内容的 PyTorch0.4 版本教程: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay。
+41. [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f): 50行生成对抗网络。
+42. [adversarial-autoencoders-with-pytorch](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/): PyTorch对抗自编码器。
+43. [transfer learning using pytorch](https://medium.com/@vishnuvig/transfer-learning-using-pytorch-4c3475f4495): PyTorch迁移学习。
+44. [how-to-implement-a-yolo-object-detector-in-pytorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/): 如何使用PyTorch实现一个YOLO (v3)物体检测器。
+45. [pytorch-for-recommenders-101](http://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html): 使用PyTorch构建推荐系统。
+46. <kbd>1000-</kbd> [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users): 面向Numpy用户的PyTorch。
+47. [PyTorch Tutorial](http://www.pytorchtutorial.com/): PyTorch中文教程（PyTorch中文网）。
+48. <kbd>1000-</kbd> [grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch): 手把手教你学会PyTorch。
+49. <kbd>1100+</kbd> [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse): PyTorch深度学习微型课程。
+50. <kbd>1000-</kbd> [pytorch-custom-dataset-examples](https://github.com/utkuozbulak/pytorch-custom-dataset-examples): PyTorch的一些自定义数据集示例。
+51. [Multiplicative LSTM for sequence-based Recommenders](https://florianwilhelm.info/2018/08/multiplicative_LSTM_for_sequence_based_recos/): 面向基于序列的推荐器的乘法LSTM。/基于LSTM的序列推荐实现。
+52. <kbd>1000-</kbd> [deeplearning.ai-pytorch](https://github.com/furkanu/deeplearning.ai-pytorch): Coursera深度学习课程(deeplearning.ai)任务的PyTorch实现。
+53. <kbd>1000-</kbd> [MNIST_Pytorch_python_and_capi](https://github.com/tobiascz/MNIST_Pytorch_python_and_capi): 示例：如何在Python中训练一个MNIST网络并在C++中用PyTorch1.0运行。
+54. <kbd>1000-</kbd> [torch_light](https://github.com/ne7ermore/torch_light): 教程和示例，包括强化学习、NLP、CV。Logistic、CNN、RNN、LSTM等神经网络模型由数行代码实现，一些高级示例由复杂模型实现。
+55. <kbd>1000-</kbd> [portrain-gan](https://github.com/dribnet/portrain-gan): 编码（解码尚未实现）art-DCGAN 生成的肖像油画。
+56. <kbd>1000-</kbd> [mri-analysis-pytorch](https://github.com/omarsar/mri-analysis-pytorch): 使用PyTorch和MedicalTorch进行核磁共振（MRI）分析。
+57. <kbd>1000-</kbd> [cifar10-fast](https://github.com/davidcpage/cifar10-fast): 在79秒内完成CIFAR10数据集上的ResNet模型的训练并达到94%的测试准确率，相关内容参见 [blog series](https://www.myrtle.ai/2018/09/24/how_to_train_your_resnet/)。
+58. [Intro to Deep Learning with PyTorch](https://in.udacity.com/course/deep-learning-pytorch--ud188): Udacity和Facebook联合推出的免费课程，包括对PyTorch的介绍和对PyTorch作者之一的Soumith Chintala的采访。
+59. <kbd>1000+</kbd> [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis): PyTorch和TorchText语义分析教程。
+60. <kbd>1600+</kbd> [pytorch-image-models](https://github.com/rwightman/pytorch-image-models): PyTorch图像模型、脚本、与训练权重—— (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet等等。
+61. <kbd>1000-</kbd> [CIFAR-ZOO](https://github.com/BIGBALLON/CIFAR-ZOO): 以CIFAR为基准的多种CNN架构的PyTorch实现。
+62. <kbd>1000-</kbd> [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch): 本项目尝试复制《动手深度学习（Dive into Deep Learning）》(www.d2l.ai)一书，将MXnet代码改编为PyTorch版。
+63. <kbd>1000-</kbd> [thinking-in-tensors-writing-in-pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch):  张量思维，PyTorch实践 (深度学习入门)。
+64. <kbd>1000-</kbd> [NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch): 命名试题识别的PyTorch解决方案，使用了Google AI的预训练BERT模型。
+65. <kbd>1000-</kbd> [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): 如何在 PyTorch 中使用交叉复制（Cross Replica）/同步批标准化（Synchronized Batchnorm）。
 
 ## Paper implementations｜论文实现
 
