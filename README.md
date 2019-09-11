@@ -98,8 +98,8 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 
 ### Other libraries｜其他库:
 
-1. <kbd>1000-</kbd> [pytorch extras](https://github.com/mrdrozdov/pytorch-extras): Some extra features for pytorch.    
-2. <kbd>1000-</kbd> [functional zoo](https://github.com/szagoruyko/functional-zoo): PyTorch, unlike lua torch, has autograd in it's core, so using modular structure of torch.nn modules is not necessary, one can easily allocate needed Variables and write a function that utilizes them, which is sometimes more convenient. This repo contains model definitions in this functional way, with pretrained weights for some models. 
+1. <kbd>1000-</kbd> [pytorch extras](https://github.com/mrdrozdov/pytorch-extras): PyTorch的额外特性。
+2. <kbd>1000-</kbd> [functional zoo](https://github.com/szagoruyko/functional-zoo): PyTorch和Tensorflow的模型定义和预训练权重。
 3. <kbd>1300+</kbd> [torch-sampling](https://github.com/ncullen93/torchsample): This package provides a set of transforms and data structures for sampling from in-memory or out-of-memory data. 
 4. <kbd>1000-</kbd> [torchcraft-py](https://github.com/deepcraft/torchcraft-py): Python wrapper for TorchCraft, a bridge between Torch and StarCraft for AI research.
 5. <kbd>1000-</kbd> [aorun](https://github.com/ramon-oliveira/aorun): Aorun intend to be a Keras with PyTorch as backend. 
