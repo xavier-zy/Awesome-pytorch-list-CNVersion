@@ -100,15 +100,15 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 
 1. <kbd>1000-</kbd> [pytorch extras](https://github.com/mrdrozdov/pytorch-extras): PyTorch的额外特性。
 2. <kbd>1000-</kbd> [functional zoo](https://github.com/szagoruyko/functional-zoo): PyTorch和Tensorflow的模型定义和预训练权重。
-3. <kbd>1300+</kbd> [torch-sampling](https://github.com/ncullen93/torchsample): This package provides a set of transforms and data structures for sampling from in-memory or out-of-memory data. 
-4. <kbd>1000-</kbd> [torchcraft-py](https://github.com/deepcraft/torchcraft-py): Python wrapper for TorchCraft, a bridge between Torch and StarCraft for AI research.
-5. <kbd>1000-</kbd> [aorun](https://github.com/ramon-oliveira/aorun): Aorun intend to be a Keras with PyTorch as backend. 
-6. <kbd>1000-</kbd> [logger](https://github.com/oval-group/logger): A simple logger for experiments.
-7. <kbd>1000-</kbd> [PyTorch-docset](https://github.com/iamaziz/PyTorch-docset): PyTorch docset! use with Dash, Zeal, Velocity, or LovelyDocs.  
-8. <kbd>1000-</kbd> [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch): Convert torch t7 model to pytorch model and source.
-9. <kbd>5000+</kbd> [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch): The goal of this repo is to help to reproduce research papers results.  
-10. <kbd>1000-</kbd> [pytorch_fft](https://github.com/locuslab/pytorch_fft): PyTorch wrapper for FFTs
-11. <kbd>1000-</kbd> [caffe_to_torch_to_pytorch](https://github.com/fanq15/caffe_to_torch_to_pytorch)
+3. <kbd>1300+</kbd> [torch-sampling](https://github.com/ncullen93/torchsample): Pytorch的采样、高级训练、数据增强和实用程序。
+4. <kbd>1000-</kbd> [torchcraft-py](https://github.com/deepcraft/torchcraft-py): TorchCraft的Python包装器，TorchCraft是连接Torch和StarCraft的桥梁。
+5. <kbd>1000-</kbd> [aorun](https://github.com/ramon-oliveira/aorun): Aorun试图以PyTorch为后端实现类似于Keras的API。
+6. <kbd>1000-</kbd> [logger](https://github.com/oval-group/logger): 机器学习记录器（logger）。
+7. <kbd>1000-</kbd> [PyTorch-docset](https://github.com/iamaziz/PyTorch-docset): PyTorch离线文档，结合Dash，Zeal，Velocity或者LovelyDocs使用。
+8. <kbd>1000-</kbd> [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch): 将Torch t7模型转换为PyTorch模型。
+9. <kbd>5000+</kbd> [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch): PyTorch 预训练卷积神经网络：NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN 等等。该项目的目标是帮助复制研究论文结果。
+10. <kbd>1000-</kbd> [pytorch_fft](https://github.com/locuslab/pytorch_fft): CUDA FFTs的PyTorch包装器。
+11. <kbd>1000-</kbd> [caffe_to_torch_to_pytorch](https://github.com/fanq15/caffe_to_torch_to_pytorch): Caffe模型转PyTorch/Torch模型，Torch模型转PyTorch模型。
 12. <kbd>1000-</kbd> [pytorch-extension](https://github.com/sniklaus/pytorch-extension): This is a CUDA extension for PyTorch which computes the Hadamard product of two tensors.
 13. <kbd>5500+</kbd> [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch): This module saves PyTorch tensors in tensorboard format for inspection. Currently supports scalar, image, audio, histogram features in tensorboard.
 14. <kbd>1400+</kbd> [gpytorch](https://github.com/jrg365/gpytorch): GPyTorch is a Gaussian Process library, implemented using PyTorch. It is designed for creating flexible and modular Gaussian Process models with ease, so that you don't have to be an expert to use GPs.
@@ -288,16 +288,16 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 
 ## Paper implementations｜论文实现
 
-1. <kbd>1000-</kbd> [google_evolution](https://github.com/neuralix/google_evolution): This implements one of result networks from Large-scale evolution of image classifiers by Esteban Real, et. al. 
-2. <kbd>1000-</kbd> [pyscatwave](https://github.com/edouardoyallon/pyscatwave): Fast Scattering Transform with CuPy/PyTorch,read the paper [here](https://arxiv.org/abs/1703.08961)
-3. <kbd>1000-</kbd> [scalingscattering](https://github.com/edouardoyallon/scalingscattering): Scaling The Scattering Transform : Deep Hybrid Networks.  
-4. <kbd>1000-</kbd> [deep-auto-punctuation](https://github.com/episodeyang/deep-auto-punctuation): a pytorch implementation of auto-punctuation learned character by character.  
-5. <kbd>1000-</kbd> [Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation): This is a pytorch version of Realtime_Multi-Person_Pose_Estimation, origin code is [here](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) .
-6. <kbd>1000-</kbd> [PyTorch-value-iteration-networks](https://github.com/onlytailei/PyTorch-value-iteration-networks): PyTorch implementation of the Value Iteration Networks (NIPS '16) paper  
-7. <kbd>1000-</kbd> [pytorch_Highway](https://github.com/analvikingur/pytorch_Highway): Highway network implemented in pytorch.
-8. <kbd>1000-</kbd> [pytorch_NEG_loss](https://github.com/analvikingur/pytorch_NEG_loss): NEG loss implemented in pytorch.  
-9. <kbd>1000-</kbd> [pytorch_RVAE](https://github.com/analvikingur/pytorch_RVAE): Recurrent Variational Autoencoder that generates sequential data implemented in pytorch.   
-10. <kbd>1000-</kbd> [pytorch_TDNN](https://github.com/analvikingur/pytorch_TDNN): Time Delayed NN implemented in pytorch.  
+1. <kbd>1000-</kbd> [google_evolution](https://github.com/neuralix/google_evolution): 实现了 [Large-scale evolution of image classifiers](https://arxiv.org/abs/1703.01041) 一文的结果网络之一。
+2. <kbd>1000-</kbd> [pyscatwave](https://github.com/edouardoyallon/pyscatwave): 基于CuPy/PyTorch的快速散射变换，[Scaling the Scattering Transform: Deep Hybrid Networks](https://arxiv.org/abs/1703.08961)
+3. <kbd>1000-</kbd> [scalingscattering](https://github.com/edouardoyallon/scalingscattering): 该仓库包含 [Scaling The Scattering Transform : Deep Hybrid Networks](https://arxiv.org/abs/1703.08961) 一文中的实验。  
+4. <kbd>1000-</kbd> [deep-auto-punctuation](https://github.com/episodeyang/deep-auto-punctuation): 通过逐字符学习实现自动添加标点。
+5. <kbd>1000-</kbd> [Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation): 基于PyTorch的多人人体姿态估计，[原始代码](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)。
+6. <kbd>1000-</kbd> [PyTorch-value-iteration-networks](https://github.com/onlytailei/PyTorch-value-iteration-networks): PyTorch实现价值迭代网络（[Value Iteration Networks](https://arxiv.org/abs/1602.02867)）（NIPS2016最佳论文奖）。
+7. <kbd>1000-</kbd> [pytorch_Highway](https://github.com/analvikingur/pytorch_Highway): PyTorch实现高速公路网络（[Highway Networks](https://arxiv.org/abs/1505.00387)）。
+8. <kbd>1000-</kbd> [pytorch_NEG_loss](https://github.com/analvikingur/pytorch_NEG_loss): PyTorch实现负采样损失（[Negative Sampling Loss](https://arxiv.org/abs/1310.4546)）。  
+9. <kbd>1000-</kbd> [pytorch_RVAE](https://github.com/analvikingur/pytorch_RVAE): 用PyTorch实现的产生序列数据的递归变分自动编码器，相关论文：[Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349#)，[Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)。
+10. <kbd>1000-</kbd> [pytorch_TDNN](https://github.com/analvikingur/pytorch_TDNN): 用PyTorch实现时间延迟神经网络（Time Delayed NN）。
 11. <kbd>1000-</kbd> [eve.pytorch](https://github.com/moskomule/eve.pytorch): An implementation of Eve Optimizer, proposed in Imploving Stochastic Gradient Descent with Feedback, Koushik and Hayashi, 2016.  
 12. <kbd>1000-</kbd> [e2e-model-learning](https://github.com/locuslab/e2e-model-learning): Task-based end-to-end model learning.  
 13. <kbd>1000-</kbd> [pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch): PyTorch implementation of "Image-to-Image Translation Using Conditional Adversarial Networks".   
