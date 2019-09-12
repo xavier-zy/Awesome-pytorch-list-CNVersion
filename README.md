@@ -109,15 +109,15 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 9. <kbd>5000+</kbd> [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch): PyTorch 预训练卷积神经网络：NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN 等等。该项目的目标是帮助复制研究论文结果。
 10. <kbd>1000-</kbd> [pytorch_fft](https://github.com/locuslab/pytorch_fft): CUDA FFTs的PyTorch包装器。
 11. <kbd>1000-</kbd> [caffe_to_torch_to_pytorch](https://github.com/fanq15/caffe_to_torch_to_pytorch): Caffe模型转PyTorch/Torch模型，Torch模型转PyTorch模型。
-12. <kbd>1000-</kbd> [pytorch-extension](https://github.com/sniklaus/pytorch-extension): This is a CUDA extension for PyTorch which computes the Hadamard product of two tensors.
-13. <kbd>5500+</kbd> [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch): This module saves PyTorch tensors in tensorboard format for inspection. Currently supports scalar, image, audio, histogram features in tensorboard.
-14. <kbd>1400+</kbd> [gpytorch](https://github.com/jrg365/gpytorch): GPyTorch is a Gaussian Process library, implemented using PyTorch. It is designed for creating flexible and modular Gaussian Process models with ease, so that you don't have to be an expert to use GPs.
-15. <kbd>1700+</kbd> [spotlight](https://github.com/maciejkula/spotlight): Deep recommender models using PyTorch.
-16. <kbd>1000-</kbd> [pytorch-cns](https://github.com/awentzonline/pytorch-cns): Compressed Network Search with PyTorch
-17. <kbd>1000-</kbd> [pyinn](https://github.com/szagoruyko/pyinn): CuPy fused PyTorch neural networks ops
-18. <kbd>1000-</kbd> [inferno](https://github.com/nasimrahaman/inferno): A utility library around PyTorch
-19. <kbd>1000-</kbd> [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): Super simple fit method for PyTorch modules
-20. <kbd>2400+</kbd> [inferno-sklearn](https://github.com/dnouri/inferno): A scikit-learn compatible neural network library that wraps pytorch.
+12. <kbd>1000-</kbd> [pytorch-extension](https://github.com/sniklaus/pytorch-extension): PyTorch的CUDA扩展示例，计算了两个张量的[哈达玛积(Hadamard product)](https://baike.baidu.com/item/哈达玛积/18894493?fr=aladdin)。
+13. <kbd>5500+</kbd> [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch): 该模块以tensorboard格式保存PyTorch张量以供检查。目前支持tensorboard中的标量、图像、音频、直方图等特性。
+14. <kbd>1400+</kbd> [gpytorch](https://github.com/jrg365/gpytorch): GPyTorch是一个用PyTorch实现的高斯过程库。它可以轻松地创建可伸缩、灵活和模块化的高斯过程模型。
+15. <kbd>1700+</kbd> [spotlight](https://github.com/maciejkula/spotlight): 深度推荐模型。
+16. <kbd>1000-</kbd> [pytorch-cns](https://github.com/awentzonline/pytorch-cns): 基于PyTorch的广义压缩网络搜索（Generalized [Compressed Network Search](http://people.idsia.ch/~juergen/compressednetworksearch.html)）。
+17. <kbd>1000-</kbd> [pyinn](https://github.com/szagoruyko/pyinn): CuPy实现融合PyTorch操作。
+18. <kbd>1000-</kbd> [inferno](https://github.com/nasimrahaman/inferno): 关于PyTorch的实用程序库。
+19. <kbd>1000-</kbd> [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): 一种用于PyTorch模块的超简单拟合方法。
+20. <kbd>2400+</kbd> [inferno-sklearn](https://github.com/dnouri/inferno): 一个基于PyTorch封装且兼容scikit-learn的神经网络库。
 21. <kbd>1000-</kbd> [pytorch-caffe-darknet-convert](https://github.com/marvis/pytorch-caffe-darknet-convert): convert between pytorch, caffe prototxt/weights and darknet cfg/weights
 22. <kbd>1000-</kbd> [pytorch2caffe](https://github.com/longcw/pytorch2caffe): Convert PyTorch model to Caffemodel
 23. <kbd>1000-</kbd> [pytorch-tools](https://github.com/nearai/pytorch-tools): Tools for PyTorch
