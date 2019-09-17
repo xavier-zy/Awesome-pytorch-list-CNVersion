@@ -143,24 +143,24 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 43. <kbd>1000-</kbd> [caffemodel2pytorch](https://github.com/vadimkantorov/caffemodel2pytorch): 将Caffe模型转换为PyTorch模型。
 44. <kbd>1000-</kbd> [extension-cpp](https://github.com/pytorch/extension-cpp): PyTorch中的C++扩展。
 45. <kbd>1000-</kbd> [pytoune](https://github.com/GRAAL-Research/pytoune): 类Keras框架和实用程序。
-46. <kbd>1000-</kbd> [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement): Deep reinforcement learning libraries for NVIDIA Jetson TX1/TX2 with PyTorch, OpenAI Gym, and Gazebo robotics simulator.
-47. <kbd>1000-</kbd> [matchbox](https://github.com/salesforce/matchbox): Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
+46. <kbd>1000-</kbd> [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement): 使用PyTorch，OpenAI Gym和Gazebo机器人模拟的NVIDIA Jetson深度强化学习GPU库。
+47. <kbd>1000-</kbd> [matchbox](https://github.com/salesforce/matchbox): 编写单个示例的PyTorch代码，然后小批量地高效运行。
 48. <kbd>1000-</kbd> [torch-two-sample](https://github.com/josipd/torch-two-sample): PyTorch双样本测试库。
-49. <kbd>1500+</kbd> [pytorch-summary](https://github.com/sksq96/pytorch-summary): Model summary in PyTorch similar to `model.summary()` in Keras
+49. <kbd>1500+</kbd> [pytorch-summary](https://github.com/sksq96/pytorch-summary): PyTorch模型总结，类似于Keras中的`model.summary()`。
 50. <kbd>1000-</kbd> [mpl.pytorch](https://github.com/BelBES/mpl.pytorch): MaxPoolingLoss的PyTorch实现。
-51. <kbd>null</kbd> [scVI-dev](https://github.com/YosefLab/scVI-dev): Development branch of the scVI project in PyTorch
-52. <kbd>2300+</kbd> [apex](https://github.com/NVIDIA/apex): An Experimental PyTorch Extension(will be deprecated at a later point)
-53. <kbd>2900+</kbd> [ELF](https://github.com/pytorch/ELF): ELF: a platform for game research.
-54. <kbd>1000-</kbd> [Torchlite](https://github.com/EKami/Torchlite): A high level library on top of(not only) Pytorch
-55. <kbd>1000-</kbd> [joint-vae](https://github.com/Schlumberger/joint-vae): Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation star2
-56. <kbd>1000-</kbd> [SLM-Lab](https://github.com/kengz/SLM-Lab): Modular Deep Reinforcement Learning framework in PyTorch.
-57. <kbd>1000-</kbd> [bindsnet](https://github.com/Hananel-Hazan/bindsnet): A Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch
-58. <kbd>1000-</kbd> [pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch): ProGAN package implemented as an extension of PyTorch nn.Module
+51. <kbd>null</kbd> [scVI-dev](https://github.com/YosefLab/scVI-dev): 链接失效。
+52. <kbd>2300+</kbd> [apex](https://github.com/NVIDIA/apex): 一个PyTorch扩展：面向精简混合精度和分布式训练。
+53. <kbd>2900+</kbd> [ELF](https://github.com/pytorch/ELF): ELF: 游戏研究平台，复现了AlphaGoZero/AlphaZero。
+54. <kbd>1000-</kbd> [Torchlite](https://github.com/EKami/Torchlite): Pytorch建立在sklearn、Pytorch和Tensorflow等流行机器学习框架上的高水平库。
+55. <kbd>1000-</kbd> [joint-vae](https://github.com/Schlumberger/joint-vae): JointVAE的PyTorch实现，一个面向分离连续和离散变异因素的框架 star2。
+56. <kbd>1000-</kbd> [SLM-Lab](https://github.com/kengz/SLM-Lab): PyTorch模块化深度强化学习框架。
+57. <kbd>1000-</kbd> [bindsnet](https://github.com/Hananel-Hazan/bindsnet): 一个Python包，可借助PyTorch `Tensor` 功能在CPUs或GPUs上模拟脉冲神经网络(SNNs, Spiking Neural Networks)。
+58. <kbd>1000-</kbd> [pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch): 作为 PyTorch nn.Module 扩展的 ProGAN 包。
 59. <kbd>4900+</kbd> [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric): PyTorch几何深度学习扩展库。
-60. <kbd>1000-</kbd> [torchplus](https://github.com/knighton/torchplus): Implements the + operator on PyTorch modules, returning sequences.
-61. <kbd>1000-</kbd> [lagom](https://github.com/zuoxingdong/lagom): lagom: A light PyTorch infrastructure to quickly prototype reinforcement learning algorithms.
+60. <kbd>1000-</kbd> [torchplus](https://github.com/knighton/torchplus): 在 PyTorch modules 上实现 + 运算符，返回序列。
+61. <kbd>1000-</kbd> [lagom](https://github.com/zuoxingdong/lagom): lagom: 用于强化学习算法快速原型构建的轻量级PyTorch架构。
 62. <kbd>1000-</kbd> [torchbearer](https://github.com/ecs-vlc/torchbearer): torchbearer: A model training library for researchers using PyTorch.
-63. <kbd>1000-</kbd> [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl): Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch. 
+63. <kbd>1000-</kbd> [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl): Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch.
 64. <kbd>1000-</kbd> [NALU](https://github.com/bharathgs/NALU): Basic pytorch implementation of NAC/NALU from Neural Arithmetic Logic Units paper by trask et.al arxiv.org/pdf/1808.00508.pdf
 65. <kbd>1000-</kbd> [QuCumber](https://github.com/PIQuIL/QuCumber): Neural Network Many-Body Wavefunction Reconstruction
 66. <kbd>1000-</kbd> [magnet](https://github.com/MagNet-DL/magnet): Deep Learning Projects that Build Themselves http://magnet-dl.readthedocs.io/
