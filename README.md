@@ -159,31 +159,31 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 59. <kbd>4900+</kbd> [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric): PyTorch几何深度学习扩展库。
 60. <kbd>1000-</kbd> [torchplus](https://github.com/knighton/torchplus): 在 PyTorch modules 上实现 + 运算符，返回序列。
 61. <kbd>1000-</kbd> [lagom](https://github.com/zuoxingdong/lagom): lagom: 用于强化学习算法快速原型构建的轻量级PyTorch架构。
-62. <kbd>1000-</kbd> [torchbearer](https://github.com/ecs-vlc/torchbearer): torchbearer: A model training library for researchers using PyTorch.
-63. <kbd>1000-</kbd> [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl): Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch.
-64. <kbd>1000-</kbd> [NALU](https://github.com/bharathgs/NALU): Basic pytorch implementation of NAC/NALU from Neural Arithmetic Logic Units paper by trask et.al arxiv.org/pdf/1808.00508.pdf
-65. <kbd>1000-</kbd> [QuCumber](https://github.com/PIQuIL/QuCumber): Neural Network Many-Body Wavefunction Reconstruction
-66. <kbd>1000-</kbd> [magnet](https://github.com/MagNet-DL/magnet): Deep Learning Projects that Build Themselves http://magnet-dl.readthedocs.io/
-67. <kbd>1000-</kbd> [opencv_transforms](https://github.com/jbohnslav/opencv_transforms): OpenCV implementation of Torchvision's image augmentations
+62. <kbd>1000-</kbd> [torchbearer](https://github.com/ecs-vlc/torchbearer): torchbearer: PyTorch模型拟合库。
+63. <kbd>1000-</kbd> [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl): 强化学习中的模型不可知元学习(MAML, Model-Agnostic Meta-Learning)。
+64. <kbd>1000-</kbd> [NALU](https://github.com/bharathgs/NALU): 神经算术逻辑单元(Neural Arithmetic Logic Units)的PyTorch基本实现，论文：arxiv.org/pdf/1808.00508.pdf 。
+65. <kbd>1000-</kbd> [QuCumber](https://github.com/PIQuIL/QuCumber): 神经网络多体波函数重构。
+66. <kbd>1000-</kbd> [magnet](https://github.com/MagNet-DL/magnet): 自我建立的深度学习项目。http://magnet-dl.readthedocs.io/
+67. <kbd>1000-</kbd> [opencv_transforms](https://github.com/jbohnslav/opencv_transforms): OpenCV实现Torchvision的图像分割。
 68. <kbd>15300+</kbd> [fastai](https://github.com/fastai/fastai): fast.ai 深度学习库、课程和教程。
-69. <kbd>1000-</kbd> [pytorch-dense-correspondence](https://github.com/RobotLocomotion/pytorch-dense-correspondence): Code for "Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation" arxiv.org/pdf/1806.08756.pdf
-70. <kbd>1000-</kbd> [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch reimplementation of Interactive Deep Colorization richzhang.github.io/ideepcolor
-71. <kbd>1000-</kbd> [beauty-net](https://github.com/cms-flash/beauty-net): A simple, flexible, and extensible template for PyTorch. It's beautiful.
-72. <kbd>1000-</kbd> [OpenChem](https://github.com/Mariewelt/OpenChem): OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research mariewelt.github.io/OpenChem 
+69. <kbd>1000-</kbd> [pytorch-dense-correspondence](https://github.com/RobotLocomotion/pytorch-dense-correspondence): [《Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation》](arxiv.org/pdf/1806.08756.pdf) 一文的代码。
+70. <kbd>1000-</kbd> [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch实现交互式深度着色(Interactive Deep Colorization)。 richzhang.github.io/ideepcolor
+71. <kbd>1000-</kbd> [beauty-net](https://github.com/cms-flash/beauty-net): PyTorch一个简单、灵活、可扩展的PyTorch模板。
+72. <kbd>1000-</kbd> [OpenChem](https://github.com/Mariewelt/OpenChem): OpenChem: 面向计算化学和药物设计研究的深度学习工具包 mariewelt.github.io/OpenChem 。
 73. <kbd>1000-</kbd> [torchani](https://github.com/aiqm/torchani): PyTorch精确神经网络电位。 aiqm.github.io/torchani
-75. <kbd>1000-</kbd> [PyTorch-LBFGS](https://github.com/hjmshi/PyTorch-LBFGS): A PyTorch implementation of L-BFGS.
-76. <kbd>1400+</kbd> [gpytorch](https://github.com/cornellius-gp/gpytorch): A highly efficient and modular implementation of Gaussian Processes in PyTorch.
-77. <kbd>1000-</kbd> [hessian](https://github.com/mariogeiger/hessian): PyTorch版hessian。
-78. <kbd>1000-</kbd> [vel](https://github.com/MillionIntegrals/vel): 深度学习研究中的速度。
-79. <kbd>1000-</kbd> [nonechucks](https://github.com/msamogh/nonechucks): Skip bad items in your PyTorch DataLoader, use Transforms as Filters, and more!
-80. <kbd>1000-</kbd> [torchstat](https://github.com/Swall0w/torchstat): Model analyzer in PyTorch.
+74. <kbd>1000-</kbd> [PyTorch-LBFGS](https://github.com/hjmshi/PyTorch-LBFGS): PyTorch实现L-BFGS。
+75. <kbd>1400+</kbd> [gpytorch](https://github.com/cornellius-gp/gpytorch): PyTorch中对高斯过程的高效且模块化的实现。
+76. <kbd>1000-</kbd> [hessian](https://github.com/mariogeiger/hessian): PyTorch版hessian。
+77. <kbd>1000-</kbd> [vel](https://github.com/MillionIntegrals/vel): 深度学习研究中的速度。
+78. <kbd>1000-</kbd> [nonechucks](https://github.com/msamogh/nonechucks): 动态地处理数据集中的坏样本，使用转换作为过滤器。
+79. <kbd>1000-</kbd> [torchstat](https://github.com/Swall0w/torchstat): PyTorch中的模型分析器。
 81. <kbd>1000+</kbd> [QNNPACK](https://github.com/pytorch/QNNPACK): Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators.
 82. <kbd>2400+</kbd> [torchdiffeq](https://github.com/rtqichen/torchdiffeq): Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 83. <kbd>1000-</kbd> [redner](https://github.com/BachiLi/redner): A differentiable Monte Carlo path tracer
-84. <kbd>1000-</kbd> [pixyz](https://github.com/masa-su/pixyz): a library for developing deep generative models in a more concise, intuitive and extendable way. 
-85. <kbd>1000-</kbd> [euclidesdb](https://github.com/perone/euclidesdb): A multi-model machine learning feature embedding database http://euclidesdb.readthedocs.io 
-86. <kbd>1000-</kbd> [pytorch2keras](https://github.com/nerox8664/pytorch2keras): Convert PyTorch dynamic graph to Keras model.
-87. <kbd>1000-</kbd> [salad](https://github.com/domainadaptation/salad): Semi-Supervised Learning and Domain Adaptation.
+84. <kbd>1000-</kbd> [pixyz](https://github.com/masa-su/pixyz): a library for developing deep generative models in a more concise, intuitive and extendable way.
+85. <kbd>1000-</kbd> [euclidesdb](https://github.com/perone/euclidesdb): A multi-model machine learning feature embedding database http://euclidesdb.readthedocs.io
+86. <kbd>1000-</kbd> [pytorch2keras](https://github.com/nerox8664/pytorch2keras): 将PyTorch模型转换为Keras模型。
+87. <kbd>1000-</kbd> [salad](https://github.com/domainadaptation/salad): 域适应和半监督学习工具箱。
 88. <kbd>1000-</kbd> [netharn](https://github.com/Erotemic/netharn): Parameterized fit and prediction harnesses for pytorch.
 89. <kbd>2700+</kbd> [dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks. http://dgl.ai. 
 90. <kbd>1300+</kbd> [gandissect](https://github.com/CSAILVision/gandissect): Pytorch-based tools for visualizing and understanding the neurons of a GAN. gandissect.csail.mit.edu 
@@ -191,7 +191,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 92. <kbd>1000-</kbd> [mushroom](https://github.com/AIRLab-POLIMI/mushroom): Python library for Reinforcement Learning experiments.
 93. <kbd>1000-</kbd> [Xlearn](https://github.com/thuml/Xlearn): 迁移学习库。
 94. <kbd>1000-</kbd> [geoopt](https://github.com/ferrine/geoopt): Riemannian Adaptive Optimization Methods with pytorch optim
-95. <kbd>1000-</kbd> [vegans](https://github.com/unit8co/vegans): A library providing various existing GANs in PyTorch.
+95. <kbd>1000-</kbd> [vegans](https://github.com/unit8co/vegans): 包含多种现有的GANs。
 96. <kbd>1000-</kbd> [torchgeometry](https://github.com/arraiyopensource/torchgeometry): TGM: PyTorch Geometry
 97. <kbd>1000-</kbd> [AdverTorch](https://github.com/BorealisAI/advertorch): A Toolbox for Adversarial Robustness (attack/defense/training) Research
 98. <kbd>2500+</kbd> [AdaBound](https://github.com/Luolc/AdaBound): An optimizer that trains as fast as Adam and as good as SGD.a
@@ -201,22 +201,22 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 102. <kbd>1000-</kbd> [Catalyst](https://github.com/catalyst-team/catalyst): High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 103. <kbd>1000-</kbd> [Ax](https://github.com/facebook/Ax): 自适应实验平台。
 104. <kbd>1000-</kbd> [pywick](https://github.com/achaiah/pywick): High-level batteries-included neural network training library for Pytorch
-105. <kbd>1000-</kbd> [torchgpipe](https://github.com/kakaobrain/torchgpipe): A GPipe implementation in PyTorch torchgpipe.readthedocs.io
+105. <kbd>1000-</kbd> [torchgpipe](https://github.com/kakaobrain/torchgpipe): PyTorch实现GPipe。 torchgpipe.readthedocs.io
 106. <kbd>1000-</kbd> [hub](https://github.com/pytorch/hub): Pytorch Hub is a pre-trained model repository designed to facilitate research reproducibility.
 107. <kbd>2000+</kbd> [pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning): Rapid research framework for Pytorch. The researcher's version of keras.
 108. <kbd>1000-</kbd> [Tor10](https://github.com/kaihsin/Tor10): A Generic Tensor-Network library that is designed for quantum simulation, base on the pytorch.
-109. <kbd>2300+</kbd> [tensorwatch](https://github.com/microsoft/tensorwatch): Debugging, monitoring and visualization for Deep Learning and Reinforcement Learning from Microsoft Research.
-110. <kbd>1000-</kbd> [wavetorch](https://github.com/fancompute/wavetorch): Numerically solving and backpropagating through the wave equation arxiv.org/abs/1904.12831
-111. <kbd>1000-</kbd> [diffdist](https://github.com/ag14774/diffdist): diffdist is a python library for pytorch. It extends the default functionality of torch.autograd and adds support for differentiable communication between processes. 
-112. <kbd>1000-</kbd> [torchprof](https://github.com/awwong1/torchprof): A minimal dependency library for layer-by-layer profiling of Pytorch models.
-113. <kbd>1000-</kbd> [osqpth](https://github.com/oxfordcontrol/osqpth): The differentiable OSQP solver layer for PyTorch. 
-114. <kbd>1000-</kbd> [mctorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning. 
-115. <kbd>1000-</kbd> [pytorch-hessian-eigenthings](https://github.com/noahgolmant/pytorch-hessian-eigenthings): Efficient PyTorch Hessian eigendecomposition using the Hessian-vector product and stochastic power iteration. 
-116. <kbd>1000-</kbd> [MinkowskiEngine](https://github.com/StanfordVL/MinkowskiEngine): Minkowski Engine is an auto-diff library for generalized sparse convolutions and high-dimensional sparse tensors.
-117. <kbd>1000-</kbd> [pytorch-cpp-rl](https://github.com/Omegastick/pytorch-cpp-rl): CppRl是一个强化学习框架，用 PyTorch C++ 前端编写。
-118. <kbd>1000-</kbd> [pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt): PyTorch extensions for fast R&D prototyping and Kaggle farming
-119. <kbd>1000-</kbd> [argus-tensor-stream](https://github.com/Fonbet/argus-tensor-stream): A library for real-time video stream decoding to CUDA memory tensorstream.argus-ai.com
-120. <kbd>1000-</kbd> [macarico](https://github.com/hal3/macarico): 在PyTorch中学习搜索。
+108. <kbd>2300+</kbd> [tensorwatch](https://github.com/microsoft/tensorwatch): Debugging, monitoring and visualization for Deep Learning and Reinforcement Learning from Microsoft Research.
+109. <kbd>1000-</kbd> [wavetorch](https://github.com/fancompute/wavetorch): 波动方程的数值求解与反传播。 arxiv.org/abs/1904.12831
+110. <kbd>1000-</kbd> [diffdist](https://github.com/ag14774/diffdist): diffdist is a python library for pytorch. It extends the default functionality of torch.autograd and adds support for differentiable communication between processes. 
+111. <kbd>1000-</kbd> [torchprof](https://github.com/awwong1/torchprof): A minimal dependency library for layer-by-layer profiling of Pytorch models.
+112. <kbd>1000-</kbd> [osqpth](https://github.com/oxfordcontrol/osqpth): The differentiable OSQP solver layer for PyTorch. 
+113. <kbd>1000-</kbd> [mctorch](https://github.com/mctorch/mctorch): 面向深度学习的流形优化库。
+114. <kbd>1000-</kbd> [pytorch-hessian-eigenthings](https://github.com/noahgolmant/pytorch-hessian-eigenthings): Efficient PyTorch Hessian eigendecomposition using the Hessian-vector product and stochastic power iteration. 
+115. <kbd>1000-</kbd> [MinkowskiEngine](https://github.com/StanfordVL/MinkowskiEngine): Minkowski Engine is an auto-diff library for generalized sparse convolutions and high-dimensional sparse tensors.
+116. <kbd>1000-</kbd> [pytorch-cpp-rl](https://github.com/Omegastick/pytorch-cpp-rl): CppRl是一个强化学习框架，用 PyTorch C++ 前端编写。
+117. <kbd>1000-</kbd> [pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt): PyTorch extensions for fast R&D prototyping and Kaggle farming
+118. <kbd>1000-</kbd> [argus-tensor-stream](https://github.com/Fonbet/argus-tensor-stream): A library for real-time video stream decoding to CUDA memory tensorstream.argus-ai.com
+129. <kbd>1000-</kbd> [macarico](https://github.com/hal3/macarico): 在PyTorch中学习搜索。
 
 ## Tutorials & examples｜教程 & 示例
 
