@@ -569,7 +569,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 279. <kbd>1100+</kbd> [waveglow](https://github.com/NVIDIA/waveglow): A Flow-based Generative Network for Speech Synthesis.
 280. <kbd>1000-</kbd> [deepfloat](https://github.com/facebookresearch/deepfloat): This repository contains the SystemVerilog RTL, C++, HLS (Intel FPGA OpenCL to wrap RTL code) and Python needed to reproduce the numerical results in "Rethinking floating point for deep learning" 
 281. <kbd>1000-</kbd> [EPSR](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw): Pytorch implementation of [Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network](https://arxiv.org/pdf/1811.00344.pdf). This work has won the first place in PIRM2018-SR competition (region 1) held as part of the ECCV 2018.
-282. <kbd>1000-</kbd> [ClariNet](https://github.com/ksw0306/ClariNet): A Pytorch Implementation of ClariNet arxiv.org/abs/1807.07281
+282. <kbd>1000-</kbd> [ClariNet](https://github.com/ksw0306/ClariNet): Pytorch实现[ClariNet](https://arxiv.org/abs/1807.07281)。
 283. <kbd>11700+</kbd> [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT): PyTorch version of Google AI's BERT model with script to load Google's pre-trained models
 284. <kbd>1000-</kbd> [torch_waveglow](https://github.com/npuichigo/waveglow): A PyTorch implementation of the WaveGlow: A Flow-based Generative Network for Speech Synthesis. 
 285. <kbd>2000+</kbd> [3DDFA](https://github.com/cleardusk/3DDFA): The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
@@ -579,7 +579,7 @@ Pytorch implementation of the paper "Copy the Old or Paint Anew? An Adversarial 
 288. <kbd>1000-</kbd> [back2future.pytorch](https://github.com/anuragranj/back2future.pytorch): This is a Pytorch implementation of
 Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learning of Multi-Frame Optical Flow with Occlusions. ECCV 2018.
 289. <kbd>1000-</kbd> [FFTNet](https://github.com/mozilla/FFTNet): Unofficial Implementation of FFTNet vocode paper.
-290. <kbd>1000-</kbd> [FaceBoxes.PyTorch](https://github.com/zisianw/FaceBoxes.PyTorch): A PyTorch Implementation of FaceBoxes.
+290. <kbd>1000-</kbd> [FaceBoxes.PyTorch](https://github.com/zisianw/FaceBoxes.PyTorch): PyTorch实现[FaceBoxes](https://arxiv.org/abs/1708.05234)。
 291. <kbd>2000+</kbd> [Transformer-XL](https://github.com/kimiyoung/transformer-xl): Transformer-XL: Attentive Language Models Beyond a Fixed-Length Contexthttps://github.com/kimiyoung/transformer-xl
 292. <kbd>1000-</kbd> [associative_compression_networks](https://github.com/jalexvig/associative_compression_networks): Associative Compression Networks for Representation Learning. 
 293. <kbd>1000-</kbd> [fluidnet_cxx](https://github.com/jolibrain/fluidnet_cxx): FluidNet re-written with ATen tensor lib. 
@@ -590,10 +590,10 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 298. <kbd>1000-</kbd> [SGCN](https://github.com/benedekrozemberczki/SGCN): This is a Pytorch implementation of Signed Graph Convolutional Network. ICDM 2018.
 299. <kbd>1000-</kbd> [SINE](https://github.com/benedekrozemberczki/SINE): This is a Pytorch implementation of SINE: Scalable Incomplete Network Embedding. ICDM 2018.
 300. <kbd>1000-</kbd> [GAM](https://github.com/benedekrozemberczki/GAM): This is a Pytorch implementation of Graph Classification using Structural Attention. KDD 2018.
-301. <kbd>1000-</kbd> [neural-style-pt](https://github.com/ProGamerGov/neural-style-pt): A PyTorch implementation of Justin Johnson's Neural-style.
+301. <kbd>1000-</kbd> [neural-style-pt](https://github.com/ProGamerGov/neural-style-pt): PyTorch 实现 Justin Johnson 的神经风格算法。论文：[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)。
 302. <kbd>1000-</kbd> [TuckER](https://github.com/ibalazevic/TuckER): TuckER: Tensor Factorization for Knowledge Graph Completion.
 303. <kbd>1000-</kbd> [pytorch-prunes](https://github.com/BayesWatch/pytorch-prunes): Pruning neural networks: is it time to nip it in the bud?
-304. <kbd>1000-</kbd> [SimGNN](https://github.com/benedekrozemberczki/SimGNN): SimGNN: A Neural Network Approach to Fast Graph Similarity Computation.
+304. <kbd>1000-</kbd> [SimGNN](https://github.com/benedekrozemberczki/SimGNN): SimGNN: 一个快速图形相似度计算的神经网络方法。论文：A Neural Network Approach to Fast Graph Similarity Computation.
 305. <kbd>1000-</kbd> [Character CNN](https://github.com/ahmedbesbes/character-based-cnn): PyTorch implementation of the Character-level Convolutional Networks for Text Classification paper. 
 306. <kbd>1500+</kbd> [XLM](https://github.com/facebookresearch/XLM): PyTorch original implementation of Cross-lingual Language Model Pretraining.
 307. <kbd>1000-</kbd> [DiffAI](https://github.com/eth-sri/diffai): A provable defense against adversarial examples and library for building compatible PyTorch models.
@@ -610,7 +610,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 318. <kbd>1000-</kbd> [MixHop](https://github.com/benedekrozemberczki/MixHop-and-N-GCN): MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing. ICML 2019.
 319. <kbd>1000-</kbd> [densebody_pytorch](https://github.com/Lotayou/densebody_pytorch): PyTorch implementation of CloudWalk's recent paper DenseBody.
 320. <kbd>1000-</kbd> [voicefilter](https://github.com/mindslab-ai/voicefilter): Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter. 
-321. <kbd>1000-</kbd> [NVIDIA/semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation): A PyTorch Implementation of [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://arxiv.org/abs/1812.01593), In CVPR2019. 
+321. <kbd>1000-</kbd> [NVIDIA/semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation): PyTorch实现“利用视频传播和标签松弛改进语义分割”。论文：[Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://arxiv.org/abs/1812.01593), In CVPR2019.
 322. <kbd>1000-</kbd> [ClusterGCN](https://github.com/benedekrozemberczki/ClusterGCN): A PyTorch implementation of "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks" (KDD 2019).
 323. <kbd>1000-</kbd> [NVlabs/DG-Net](https://github.com/NVlabs/DG-Net): A PyTorch implementation of "Joint Discriminative and Generative Learning for Person Re-identification" (CVPR19 Oral). 
 324. <kbd>1000-</kbd> [NCRF](https://github.com/baidu-research/NCRF): Cancer metastasis detection with neural conditional random field (NCRF)
