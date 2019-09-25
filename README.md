@@ -308,17 +308,17 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 18. <kbd>1000-</kbd> [piwise](https://github.com/bodokaiser/piwise): 使用PyTorch对VOC2012数据集进行像素切割。
 19. <kbd>1000-</kbd> [pytorch-dqn](https://github.com/transedward/pytorch-dqn): 深度Q学习网络。  
 20. <kbd>1000-</kbd> [neuraltalk2-pytorch](https://github.com/ruotianluo/neuraltalk2.pytorch): PyTorch图像字幕代码库(在分支“with_finetune”中有可微调CNN)。
-21. <kbd>1000-</kbd> [vnet.pytorch](https://github.com/mattmacy/vnet.pytorch): A Pytorch implementation for V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation.    
+21. <kbd>1000-</kbd> [vnet.pytorch](https://github.com/mattmacy/vnet.pytorch): PyTorch实现V-Net：全卷积神经网络在体医学图像分割中的应用。 http://mattmacy.io/vnet.pytorch/
 22. <kbd>1000-</kbd> [pytorch-fcn](https://github.com/wkentaro/pytorch-fcn): PyTorch 实现完全卷积网络。 
-23. <kbd>1000-</kbd> [WideResNets](https://github.com/xternalz/WideResNet-pytorch): WideResNets for CIFAR10/100 implemented in PyTorch. This implementation requires less GPU memory than what is required by the official Torch implementation: https://github.com/szagoruyko/wide-residual-networks .
+23. <kbd>1000-</kbd> [WideResNets](https://github.com/xternalz/WideResNet-pytorch): PyTorch实现WideResNets。该实现比官方Torch实现花费更少的GPU内存。implementation: https://github.com/szagoruyko/wide-residual-networks .
 24. <kbd>1000-</kbd> [pytorch_highway_networks](https://github.com/c0nn3r/pytorch_highway_networks): PyTorch实现高速公路网络。  
-25. <kbd>1000-</kbd> [pytorch-NeuCom](https://github.com/ypxie/pytorch-NeuCom): Pytorch implementation of DeepMind's differentiable neural computer paper.  
-26. <kbd>1000-</kbd> [captionGen](https://github.com/eladhoffer/captionGen): Generate captions for an image using PyTorch.  
-27. <kbd>1000-</kbd> [AnimeGAN](https://github.com/jayleicn/animeGAN): A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing. 
-28. <kbd>1000-</kbd> [Cnn-text classification](https://github.com/Shawn1993/cnn-text-classification-pytorch): This is the implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in PyTorch.  
-29. <kbd>1000+</kbd> [deepspeech2](https://github.com/SeanNaren/deepspeech.pytorch): Implementation of DeepSpeech2 using Baidu Warp-CTC. Creates a network based on the DeepSpeech2 architecture, trained with the CTC activation function.
-30. <kbd>1000-</kbd> [seq2seq](https://github.com/MaximumEntropy/Seq2Seq-PyTorch): This repository contains implementations of Sequence to Sequence (Seq2Seq) models in PyTorch  
-31. <kbd>1000-</kbd> [Asynchronous Advantage Actor-Critic in PyTorch](https://github.com/rarilurelo/pytorch_a3c): This is PyTorch implementation of A3C as described in Asynchronous Methods for Deep Reinforcement Learning. Since PyTorch has a easy method to control shared memory within multiprocess, we can easily implement asynchronous method like A3C.    
+25. <kbd>1000-</kbd> [pytorch-NeuCom](https://github.com/ypxie/pytorch-NeuCom): Pytorch实现DeepMind的可微神经计算机[论文](http://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)。
+26. <kbd>1000-</kbd> [captionGen](https://github.com/eladhoffer/captionGen): 使用PyTorch为图像生成标注。
+27. <kbd>1000-</kbd> [AnimeGAN](https://github.com/jayleicn/animeGAN): 生成对抗网络的PyTorch简单实现，关注于动漫脸谱绘画。
+28. <kbd>1000-</kbd> [Cnn-text classification](https://github.com/Shawn1993/cnn-text-classification-pytorch): PyTorch 实现 [Kim的基于卷积神经网络的句子分类](https://arxiv.org/abs/1408.5882) 论文。
+29. <kbd>1000+</kbd> [deepspeech2](https://github.com/SeanNaren/deepspeech.pytorch): 使用 Baidu Warp-CTC 实现DeepSpeech2。创造一个基于 DeepSpeech2 架构的网络，用 CTC 激活函数训练。
+30. <kbd>1000-</kbd> [seq2seq](https://github.com/MaximumEntropy/Seq2Seq-PyTorch): 包含PyTorch中的Seq2Seq模型。  
+31. <kbd>1000-</kbd> [Asynchronous Advantage Actor-Critic in PyTorch](https://github.com/rarilurelo/pytorch_a3c): PyTorch实现A3C(Asynchronous Advantage Actor-Critic)，论文：[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783v1.pdf)。由于 PyTorch 可以轻松地在多进程内控制共享内存，我们可以轻易实现A3C这样的异步算法。  
 32. <kbd>1000-</kbd> [densenet](https://github.com/bamos/densenet.pytorch): This is a PyTorch implementation of the DenseNet-BC architecture as described in the paper Densely Connected Convolutional Networks by G. Huang, Z. Liu, K. Weinberger, and L. van der Maaten. This implementation gets a CIFAR-10+ error rate of 4.77 with a 100-layer DenseNet-BC with a growth rate of 12. Their official implementation and links to many other third-party implementations are available in the liuzhuang13/DenseNet repo on GitHub.  
 33. <kbd>1000-</kbd> [nninit](https://github.com/alykhantejani/nninit): Weight initialization schemes for PyTorch nn.Modules. This is a port of the popular nninit for Torch7 by @kaixhin.  
 34. <kbd>1200+</kbd> [faster rcnn](https://github.com/longcw/faster_rcnn_pytorch): This is a PyTorch implementation of Faster RCNN. This project is mainly based on py-faster-rcnn and TFFRCNN.For details about R-CNN please refer to the paper Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun. 
