@@ -310,7 +310,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 20. <kbd>1000-</kbd> [neuraltalk2-pytorch](https://github.com/ruotianluo/neuraltalk2.pytorch): PyTorch图像字幕代码库(在分支“with_finetune”中有可微调CNN)。
 21. <kbd>1000-</kbd> [vnet.pytorch](https://github.com/mattmacy/vnet.pytorch): PyTorch实现V-Net：全卷积神经网络在体医学图像分割中的应用。 http://mattmacy.io/vnet.pytorch/
 22. <kbd>1000-</kbd> [pytorch-fcn](https://github.com/wkentaro/pytorch-fcn): PyTorch 实现完全卷积网络。 
-23. <kbd>1000-</kbd> [WideResNets](https://github.com/xternalz/WideResNet-pytorch): PyTorch实现WideResNets。该实现比官方Torch实现花费更少的GPU内存。implementation: https://github.com/szagoruyko/wide-residual-networks .
+23. <kbd>1000-</kbd> [WideResNets](https://github.com/xternalz/WideResNet-pytorch): PyTorch实现WideResNets。该实现比官方Torch实现花费更少的GPU内存。实现: https://github.com/szagoruyko/wide-residual-networks .
 24. <kbd>1000-</kbd> [pytorch_highway_networks](https://github.com/c0nn3r/pytorch_highway_networks): PyTorch实现高速公路网络。  
 25. <kbd>1000-</kbd> [pytorch-NeuCom](https://github.com/ypxie/pytorch-NeuCom): Pytorch实现DeepMind的可微神经计算机[论文](http://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)。
 26. <kbd>1000-</kbd> [captionGen](https://github.com/eladhoffer/captionGen): 使用PyTorch为图像生成标注。
@@ -319,18 +319,18 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 29. <kbd>1000+</kbd> [deepspeech2](https://github.com/SeanNaren/deepspeech.pytorch): 使用 Baidu Warp-CTC 实现DeepSpeech2。创造一个基于 DeepSpeech2 架构的网络，用 CTC 激活函数训练。
 30. <kbd>1000-</kbd> [seq2seq](https://github.com/MaximumEntropy/Seq2Seq-PyTorch): 包含PyTorch中的Seq2Seq模型。  
 31. <kbd>1000-</kbd> [Asynchronous Advantage Actor-Critic in PyTorch](https://github.com/rarilurelo/pytorch_a3c): PyTorch实现A3C(Asynchronous Advantage Actor-Critic)，论文：[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783v1.pdf)。由于 PyTorch 可以轻松地在多进程内控制共享内存，我们可以轻易实现A3C这样的异步算法。  
-32. <kbd>1000-</kbd> [densenet](https://github.com/bamos/densenet.pytorch): This is a PyTorch implementation of the DenseNet-BC architecture as described in the paper Densely Connected Convolutional Networks by G. Huang, Z. Liu, K. Weinberger, and L. van der Maaten. This implementation gets a CIFAR-10+ error rate of 4.77 with a 100-layer DenseNet-BC with a growth rate of 12. Their official implementation and links to many other third-party implementations are available in the liuzhuang13/DenseNet repo on GitHub.  
-33. <kbd>1000-</kbd> [nninit](https://github.com/alykhantejani/nninit): Weight initialization schemes for PyTorch nn.Modules. This is a port of the popular nninit for Torch7 by @kaixhin.  
-34. <kbd>1200+</kbd> [faster rcnn](https://github.com/longcw/faster_rcnn_pytorch): This is a PyTorch implementation of Faster RCNN. This project is mainly based on py-faster-rcnn and TFFRCNN.For details about R-CNN please refer to the paper Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun. 
-35. <kbd>1000-</kbd> [doomnet](https://github.com/akolishchak/doom-net-pytorch): PyTorch's version of Doom-net implementing some RL models in ViZDoom environment.  
+32. <kbd>1000-</kbd> [densenet](https://github.com/bamos/densenet.pytorch): This is a PyTorch 实现 DenseNet-BC 架构，相关论文 [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)。该实现的 CIFAR-10+ 100层错误率为 4.77 增长率为 12。官方实现和许多第三方库的链接参见 [liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)。
+33. <kbd>1000-</kbd> [nninit](https://github.com/alykhantejani/nninit): PyTorch神经网络模块的权值初始化方案，这是 [nninit](https://github.com/Kaixhin/nninit) 的流行端口。
+34. <kbd>1200+</kbd> [faster rcnn](https://github.com/longcw/faster_rcnn_pytorch): PyTorch 实现 Faster RCNN。该项目主要基于 py-faster-rcnn 和 TFFRCNN。更多关于 R-CNN 的细节请参考论文 Faster R-CNN：[Towards Real-Time Object Detection with Region Proposal Network](https://arxiv.org/abs/1506.01497)。
+35. <kbd>1000-</kbd> [doomnet](https://github.com/akolishchak/doom-net-pytorch): PyTorch版Doom-net，实现了ViZDoom环境下的RL模型。  
 36. <kbd>1000-</kbd> [flownet](https://github.com/ClementPinard/FlowNetPytorch): 通过Dosovitskiy等完成FlowNet的Pytorch实现。
-37. <kbd>1000-</kbd> [sqeezenet](https://github.com/gsp-27/pytorch_Squeezenet): Implementation of Squeezenet in pytorch, #### pretrained models on CIFAR10 data to come Plan to train the model on cifar 10 and add block connections too.  
-38. <kbd>2400+</kbd> [WassersteinGAN](https://github.com/martinarjovsky/WassersteinGAN): wassersteinGAN in pytorch. 
-39. <kbd>1000-</kbd> [optnet](https://github.com/locuslab/optnet): This repository is by Brandon Amos and J. Zico Kolter and contains the PyTorch source code to reproduce the experiments in our paper OptNet: Differentiable Optimization as a Layer in Neural Networks.  
-40. <kbd>1000-</kbd> [qp solver](https://github.com/locuslab/qpth): A fast and differentiable QP solver for PyTorch. Crafted by Brandon Amos and J. Zico Kolter.  
-41. <kbd>1000-</kbd> [Continuous Deep Q-Learning with Model-based Acceleration ](https://github.com/ikostrikov/pytorch-naf): Reimplementation of Continuous Deep Q-Learning with Model-based Acceleration.  
-42. <kbd>1000-</kbd> [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer): PyTorch implementation of Learning to learn by gradient descent by gradient descent.
-43. <kbd>1000-</kbd> [fast-neural-style](https://github.com/darkstar112358/fast-neural-style): pytorch implementation of fast-neural-style, The model uses the method described in [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) along with Instance Normalization.
+37. <kbd>1000-</kbd> [sqeezenet](https://github.com/gsp-27/pytorch_Squeezenet): 在CIFAR10数据集上用PyTorch实现Squeezenet模型，[论文](https://arxiv.org/abs/1602.07360)。
+38. <kbd>2400+</kbd> [WassersteinGAN](https://github.com/martinarjovsky/WassersteinGAN): PyTorch实现[WassersteinGAN](https://arxiv.org/abs/1701.07875)。
+39. <kbd>1000-</kbd> [optnet](https://github.com/locuslab/optnet): 该仓库包含PyTorch源码，重现了论文[OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443)中的实验。  
+40. <kbd>1000-</kbd> [qp solver](https://github.com/locuslab/qpth): PyTorch的一个快速和可微分的QP求解器。https://locuslab.github.io/qpth/
+41. <kbd>1000-</kbd> [Continuous Deep Q-Learning with Model-based Acceleration ](https://github.com/ikostrikov/pytorch-naf): [基于模型加速的连续深度Q学习](https://arxiv.org/pdf/1603.00748v1.pdf)的再实现。
+42. <kbd>1000-</kbd> [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer): PyTorch实现[Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)。
+43. <kbd>1000-</kbd> [fast-neural-style](https://github.com/darkstar112358/fast-neural-style): PyTorch实现fast-neural-style，论文：[Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)。
 44. <kbd>1000-</kbd> [PytorchNeuralStyleTransfer](https://github.com/leongatys/PytorchNeuralStyleTransfer): Pytorch中的神经风格转换。
 45. <kbd>1000-</kbd> [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle): Fast Neural Style for Image Style Transform by Pytorch .
 46. <kbd>1000-</kbd> [neural style transfer](https://github.com/alexis-jacq/Pytorch-Tutorials): An introduction to PyTorch through the Neural-Style algorithm (https://arxiv.org/abs/1508.06576) developed by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge.   
