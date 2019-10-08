@@ -334,27 +334,27 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 44. <kbd>1000-</kbd> [PytorchNeuralStyleTransfer](https://github.com/leongatys/PytorchNeuralStyleTransfer): Pytorch中的神经风格转换。
 45. <kbd>1000-</kbd> [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle): 使用快速神经风格进行图像风格转换。
 46. <kbd>1000-</kbd> [neural style transfer](https://github.com/alexis-jacq/Pytorch-Tutorials): 通过神经风格算法介绍PyTorch，[Neural-Style algorithm](https://arxiv.org/abs/1508.06576)。
-47. <kbd>1000-</kbd> [VIN_PyTorch_Visdom](https://github.com/zuoxingdong/VIN_PyTorch_Visdom): PyTorch implementation of Value Iteration Networks (VIN): Clean, Simple and Modular. Visualization in Visdom.  
+47. <kbd>1000-</kbd> [VIN_PyTorch_Visdom](https://github.com/zuoxingdong/VIN_PyTorch_Visdom): PyTorch实现价值迭代网络(VIN):干净、简单、模块化。利用Visdom进行可视化。
 48. <kbd>1200+</kbd> [YOLO2](https://github.com/longcw/yolo2-pytorch): PyTorch中的YOLOv2。
-49. <kbd>1000-</kbd> [attention-transfer](https://github.com/szagoruyko/attention-transfer): Attention transfer in pytorch, read the paper [here](https://arxiv.org/abs/1612.03928).  
-50. <kbd>1000-</kbd> [SVHNClassifier](https://github.com/potterhsu/SVHNClassifier-PyTorch): A PyTorch implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1312.6082.pdf).  
-51. <kbd>1000-</kbd> [pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv): PyTorch implementation of Deformable Convolution.  
-52. <kbd>1000-</kbd> [BEGAN-pytorch](https://github.com/carpedm20/BEGAN-pytorch): PyTorch implementation of [BEGAN](https://arxiv.org/abs/1703.10717): Boundary Equilibrium Generative Adversarial Networks.  
-53. <kbd>1000-</kbd> [treelstm.pytorch](https://github.com/dasguptar/treelstm.pytorch): Tree LSTM implementation in PyTorch.
-54. <kbd>1000-</kbd> [AGE](https://github.com/DmitryUlyanov/AGE): Code for paper "Adversarial Generator-Encoder Networks" by Dmitry Ulyanov, Andrea Vedaldi and Victor Lempitsky which can be found [here](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/04/AGE.pdf) 
-55. <kbd>1000-</kbd> [ResNeXt.pytorch](https://github.com/prlz77/ResNeXt.pytorch): Reproduces ResNet-V3 (Aggregated Residual Transformations for Deep Neural Networks) with pytorch.
-56. <kbd>1000-</kbd> [pytorch-rl](https://github.com/jingweiz/pytorch-rl): Deep Reinforcement Learning with pytorch & visdom  
-57. <kbd>1000-</kbd> [Deep-Leafsnap](https://github.com/sujithv28/Deep-Leafsnap): LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.  
+49. <kbd>1000-</kbd> [attention-transfer](https://github.com/szagoruyko/attention-transfer): 通过注意转移改善卷积网络，[ICLR2017会议论文](https://arxiv.org/abs/1612.03928)。
+50. <kbd>1000-</kbd> [SVHNClassifier](https://github.com/potterhsu/SVHNClassifier-PyTorch): PyTorch实现[基于深度卷积神经网络的街景图像多位数识别](https://arxiv.org/pdf/1312.6082.pdf)。
+51. <kbd>1000-</kbd> [pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv): PyTorch实现可变形卷积(Deformable Convolution)。  
+52. <kbd>1000-</kbd> [BEGAN-pytorch](https://github.com/carpedm20/BEGAN-pytorch): PyTorch实现[边界均衡生成对抗网络（BEGAN）](https://arxiv.org/abs/1703.10717): Boundary Equilibrium Generative Adversarial Networks.  
+53. <kbd>1000-</kbd> [treelstm.pytorch](https://github.com/dasguptar/treelstm.pytorch): PyTorch实现树形结构LSTM。
+54. <kbd>1000-</kbd> [AGE](https://github.com/DmitryUlyanov/AGE): 论文代码，原文：对抗生成编码器网络（[Adversarial Generator-Encoder Networks](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/04/AGE.pdf)）。
+55. <kbd>1000-</kbd> [ResNeXt.pytorch](https://github.com/prlz77/ResNeXt.pytorch): 再现 ResNet-V3 (深度神经网络的聚集残差变换)。
+56. <kbd>1000-</kbd> [pytorch-rl](https://github.com/jingweiz/pytorch-rl): 基于PyTorch和Visdom的深度强化学习。
+57. <kbd>1000-</kbd> [Deep-Leafsnap](https://github.com/sujithv28/Deep-Leafsnap): 对比传统的计算机视觉方法，使用深度神经网络的[LeafSnap](https://neerajkumar.org/base/papers/nk_eccv2012_leafsnap.pdf)能有效提高测试准确率。
 58. <kbd>9400+</kbd> [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): PyTorch实现未成对和成对的图像到图像翻译。
-59. <kbd>1000-</kbd> [A3C-PyTorch](https://github.com/onlytailei/A3C-PyTorch):PyTorch implementation of Advantage async actor-critic Algorithms (A3C) in PyTorch
-60. <kbd>1000-</kbd> [pytorch-value-iteration-networks](https://github.com/kentsommer/pytorch-value-iteration-networks): Pytorch implementation of Value Iteration Networks (NIPS 2016 best paper)  
-61. <kbd>1000-</kbd> [PyTorch-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer): PyTorch Implementation of Multi-style Generative Network for Real-time Transfer
-62. <kbd>1000-</kbd> [pytorch-deeplab-resnet](https://github.com/isht7/pytorch-deeplab-resnet): pytorch-deeplab-resnet-model.
-63. <kbd>1000-</kbd> [pointnet.pytorch](https://github.com/fxia22/pointnet.pytorch): pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593  
-64. <kbd>1600+</kbd> **[pytorch-playground](https://github.com/aaron-xichen/pytorch-playground): Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)**.
-65. <kbd>1000-</kbd> [pytorch-dnc](https://github.com/jingweiz/pytorch-dnc): Neural Turing Machine (NTM) & Differentiable Neural Computer (DNC) with pytorch & visdom. 
+59. <kbd>1000-</kbd> [A3C-PyTorch](https://github.com/onlytailei/A3C-PyTorch):PyTorch 实现 A3C(Advantage async actor-critic)算法。
+60. <kbd>1000-</kbd> [pytorch-value-iteration-networks](https://github.com/kentsommer/pytorch-value-iteration-networks): PyTorch实现价值迭代网络Value Iteration Networks (NIPS 2016 最佳论文)。  
+61. <kbd>1000-</kbd> [PyTorch-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer): PyTorch实现实时转换多风格生成网络。
+62. <kbd>1000-</kbd> [pytorch-deeplab-resnet](https://github.com/isht7/pytorch-deeplab-resnet): PyTorch实现 [DeepLab resnet v2](https://arxiv.org/abs/1606.00915)。
+63. <kbd>1000-</kbd> [pointnet.pytorch](https://github.com/fxia22/pointnet.pytorch): PyTorch实现 "PointNet: 基于深度学习的3D点分类和分割模型" https://arxiv.org/abs/1612.00593  
+64. <kbd>1600+</kbd> **[pytorch-playground](https://github.com/aaron-xichen/pytorch-playground): 包含常见的预训练模型和数据集(MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)**.
+65. <kbd>1000-</kbd> [pytorch-dnc](https://github.com/jingweiz/pytorch-dnc): PyTorch/Visdom实现的神经机器翻译(NTM)&可微神经计算机(DNC)。
 66. <kbd>1000-</kbd> [pytorch_image_classifier](https://github.com/jinfagang/pytorch_image_classifier): 使用PyTorch的最小但实用的图像分类器管道，在ResNet18上进行细化，在自己的小型数据集上获得99%的准确率。
-67. <kbd>1000-</kbd> [mnist-svhn-transfer](https://github.com/yunjey/mnist-svhn-transfer): PyTorch Implementation of CycleGAN and SGAN for Domain Transfer (Minimal).
+67. <kbd>1000-</kbd> [mnist-svhn-transfer](https://github.com/yunjey/mnist-svhn-transfer): PyTorch实现CycleGAN和SGAN。
 68. <kbd>1000-</kbd> [pytorch-yolo2](https://github.com/marvis/pytorch-yolo2): pytorch-yolo2
 69. <kbd>1000-</kbd> [dni](https://github.com/andrewliao11/dni.pytorch): Implement Decoupled Neural Interfaces using Synthetic Gradients in Pytorch
 70. <kbd>1000-</kbd> [wgan-gp](https://github.com/caogang/wgan-gp): A pytorch implementation of Paper "Improved Training of Wasserstein GANs".
