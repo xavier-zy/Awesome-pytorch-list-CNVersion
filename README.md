@@ -70,7 +70,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 4. <kbd>1000-</kbd> [img_classification_pk_pytorch](https://github.com/felixgwu/img_classification_pk_pytorch): 将你的图像分类模型和最先进的模型进行快速比较 (比如DenseNet, ResNet, ...)
 5. <kbd>1000-</kbd> [SparseConvNet](https://github.com/facebookresearch/SparseConvNet): 子流形稀疏卷积神经网络。
 6. <kbd>1000-</kbd> [Convolution_LSTM_pytorch](https://github.com/automan000/Convolution_LSTM_pytorch): 多层卷积LSTM(长短期记忆网络)模块。
-7. <kbd>3100+</kbd> [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 使用pytorch构建2D和3D人脸比对库。 adrianbulat.com
+7. <kbd>3100+</kbd> [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 基于 PyTorch 的 2D 和 3D 面部对齐库。 adrianbulat.com
 8. <kbd>1000+</kbd> [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): 语义分割。
 9. <kbd>1000-</kbd> [RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch): PyTorch版本的RoIAlign。其实现基于crop_and_resize，支持CPU和GPU上的前向和后向。
 10. <kbd>1000-</kbd> [pytorch-cnn-finetune](https://github.com/creafz/pytorch-cnn-finetune): 用PyTorch微调预训练卷积神经网络。
@@ -87,7 +87,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 ### Probabilistic/Generative Libraries｜概率库和生成库:
 
 1. <kbd>1000-</kbd> [ptstat](https://github.com/stepelu/ptstat): 概率编程和统计推断。
-2. <kbd>5500+</kbd> [pyro](https://github.com/uber/pyro): Python 和 PyTorch 的深度通用概率编程。 http://pyro.ai
+2. <kbd>5500+</kbd> [pyro](https://github.com/uber/pyro): 基于 Python 和 PyTorch 的深度通用概率编程库。 http://pyro.ai
 3. <kbd>1000-</kbd> [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch是一个扩展了PyTorch的深度生成模型的库。
 4. <kbd>1000-</kbd> [paysage](https://github.com/drckf/paysage): 基于Python/PyTorch的非监督学习和生成模型库。
 5. <kbd>1000-</kbd> [pyvarinf](https://github.com/ctallec/pyvarinf): Python包，促进了带有变分推断的贝叶斯深度学习方法在pytorch中的应用。
@@ -345,7 +345,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 55. <kbd>1000-</kbd> [ResNeXt.pytorch](https://github.com/prlz77/ResNeXt.pytorch): 再现 ResNet-V3 (深度神经网络的聚集残差变换)。
 56. <kbd>1000-</kbd> [pytorch-rl](https://github.com/jingweiz/pytorch-rl): 基于PyTorch和Visdom的深度强化学习。
 57. <kbd>1000-</kbd> [Deep-Leafsnap](https://github.com/sujithv28/Deep-Leafsnap): 对比传统的计算机视觉方法，使用深度神经网络的[LeafSnap](https://neerajkumar.org/base/papers/nk_eccv2012_leafsnap.pdf)能有效提高测试准确率。
-58. <kbd>9400+</kbd> [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): PyTorch实现未成对和成对的图像到图像翻译。
+58. <kbd>9400+</kbd> [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): PyTorch 实现图像风格迁移。
 59. <kbd>1000-</kbd> [A3C-PyTorch](https://github.com/onlytailei/A3C-PyTorch):PyTorch 实现 A3C(Advantage async actor-critic)算法。
 60. <kbd>1000-</kbd> [pytorch-value-iteration-networks](https://github.com/kentsommer/pytorch-value-iteration-networks): PyTorch实现价值迭代网络Value Iteration Networks (NIPS 2016 最佳论文)。  
 61. <kbd>1000-</kbd> [PyTorch-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer): PyTorch实现实时转换多风格生成网络。
@@ -370,16 +370,16 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 80. <kbd>1000-</kbd> [grad-cam](https://github.com/jacobgil/pytorch-grad-cam): PyTorch 实现[Grad-CAM](https://arxiv.org/pdf/1610.02391v1.pdf)。
 81. <kbd>1000-</kbd> [pytorch-trpo](https://github.com/mjacar/pytorch-trpo): PyTorch s实现置信域策略优化（[Trust Region Policy Optimization (TRPO)](https://arxiv.org/abs/1502.05477)）。
 82. <kbd>1000-</kbd> [pytorch-explain-black-box](https://github.com/jacobgil/pytorch-explain-black-box): PyTorch通过有意义扰动实现黑箱的可解释性解释，[论文](https://arxiv.org/abs/1704.03296)。
-83. <kbd>1000-</kbd> [vae_vpflows](https://github.com/jmtomczak/vae_vpflows): Code in PyTorch for the convex combination linear IAF and the Householder Flow, J.M. Tomczak & M. Welling https://jmtomczak.github.io/deebmed.html 
-84. <kbd>1000-</kbd> [relational-networks](https://github.com/kimhc6028/relational-networks): Pytorch implementation of "A simple neural network module for relational reasoning" (Relational Networks) https://arxiv.org/pdf/1706.01427.pdf
-85. <kbd>1000-</kbd> [vqa.pytorch](https://github.com/Cadene/vqa.pytorch): Visual Question Answering in Pytorch
-86. <kbd>1200+</kbd> [end-to-end-negotiator](https://github.com/facebookresearch/end-to-end-negotiator): Deal or No Deal? End-to-End Learning for Negotiation Dialogues
-87. <kbd>1000-</kbd> [odin-pytorch](https://github.com/ShiyuLiang/odin-pytorch): Principled Detection of Out-of-Distribution Examples in Neural Networks. 
-88. <kbd>1000-</kbd> [FreezeOut](https://github.com/ajbrock/FreezeOut): Accelerate Neural Net Training by Progressively Freezing Layers. 
-89. <kbd>1000-</kbd> [ARAE](https://github.com/jakezhaojb/ARAE): Code for the paper "Adversarially Regularized Autoencoders for Generating Discrete Structures" by Zhao, Kim, Zhang, Rush and LeCun.
-90. <kbd>1000-</kbd> [forward-thinking-pytorch](https://github.com/kimhc6028/forward-thinking-pytorch): Pytorch implementation of "Forward Thinking: Building and Training Neural Networks One Layer at a Time" https://arxiv.org/pdf/1706.02480.pdf  
-91. <kbd>1000-</kbd> [context_encoder_pytorch](https://github.com/BoyuanJiang/context_encoder_pytorch): PyTorch Implement of Context Encoders
-92. <kbd>3000+</kbd> [attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch): PyTorch在"Attenti on is All You Need"中实现转换模型，https://github.com/thnkim/OpenFacePytorch。
+83. <kbd>1000-</kbd> [vae_vpflows](https://github.com/jmtomczak/vae_vpflows): 凸组合线性IAF与Householder流 https://jmtomczak.github.io/deebmed.html 。
+84. <kbd>1000-</kbd> [relational-networks](https://github.com/kimhc6028/relational-networks): Pytorch实现"[用一个简单的神经网络模块来做关系推理](https://arxiv.org/pdf/1706.01427.pdf)"(关系网络)。
+85. <kbd>1000-</kbd> [vqa.pytorch](https://github.com/Cadene/vqa.pytorch): 视觉问答。
+86. <kbd>1200+</kbd> [end-to-end-negotiator](https://github.com/facebookresearch/end-to-end-negotiator): 成交还是不成交？谈判对话的端到端学习。
+87. <kbd>1000-</kbd> [odin-pytorch](https://github.com/ShiyuLiang/odin-pytorch): 神经网络失配实例的原则性检测。
+88. <kbd>1000-</kbd> [FreezeOut](https://github.com/ajbrock/FreezeOut): 一种通过逐步冻结层加速神经网络训练的简单技术。
+89. <kbd>1000-</kbd> [ARAE](https://github.com/jakezhaojb/ARAE): 论文代码，"[对抗性正则化的自动编码器, ARAE](https://arxiv.org/abs/1706.04223)"。
+90. <kbd>1000-</kbd> [forward-thinking-pytorch](https://github.com/kimhc6028/forward-thinking-pytorch): PyTorch实现"[前向思考：一次一层地建立和训练神经网络](https://arxiv.org/pdf/1706.02480.pdf)"。  
+91. <kbd>1000-</kbd> [context_encoder_pytorch](https://github.com/BoyuanJiang/context_encoder_pytorch): PyTorch实现上下文编码器(Context Encoders)，可用于图像修复。
+92. <kbd>3000+</kbd> [attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch): PyTorch在"Attention is All You Need"中实现转换模型，https://github.com/thnkim/OpenFacePytorch。
 93. <kbd>1000-</kbd> [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch): 使用 OpenFace's nn4.small2.v1.t7 模型的PyTorch模块。
 94. <kbd>1000-</kbd> [neural-combinatorial-rl-pytorch](https://github.com/pemami4911/neural-combinatorial-rl-pytorch):  PyTorch 实现"[通过强化学习实现神经组合优化](https://arxiv.org/abs/1611.09940)"。
 95. <kbd>1000-</kbd> [pytorch-nec](https://github.com/mjacar/pytorch-nec): PyTorch实现神经情景控制([NEC，Neural Episodic Control](https://arxiv.org/abs/1703.01988))。
@@ -387,13 +387,13 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 97. <kbd>1000-</kbd> [Pytorch-Sketch-RNN](https://github.com/alexis-jacq/Pytorch-Sketch-RNN): PyTorch实现 “[A Neural Representation of Sketch Drawings](arxiv.org/abs/1704.03477)”。
 98. <kbd>1000-</kbd> [pytorch-pruning](https://github.com/jacobgil/pytorch-pruning): PyTorch实现 [1611.06440] [用于资源有效推理的剪枝卷积神经网络](https://arxiv.org/abs/1611.06440)
 99. <kbd>1000-</kbd> [DrQA](https://github.com/hitvoice/DrQA): PyTorch实现自动阅读维基百科并回答开放领域问题。
-100. <kbd>1000-</kbd> [YellowFin_Pytorch](https://github.com/JianGoForIt/YellowFin_Pytorch): auto-tuning momentum SGD optimizer
-101. <kbd>1000-</kbd> [samplernn-pytorch](https://github.com/deepsound-project/samplernn-pytorch): PyTorch implementation of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model. 
-102. <kbd>1000-</kbd> [AEGeAN](https://github.com/tymokvo/AEGeAN): Deeper DCGAN with AE stabilization
-103. <kbd>1000-</kbd> [/pytorch-SRResNet](https://github.com/twtygqyy/pytorch-SRResNet): pytorch implementation for Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network arXiv:1609.04802v2 
-104. <kbd>1000-</kbd> [vsepp](https://github.com/fartashf/vsepp): Code for the paper "VSE++: Improved Visual Semantic Embeddings"
-105. <kbd>1000-</kbd> [Pytorch-DPPO](https://github.com/alexis-jacq/Pytorch-DPPO): Pytorch implementation of Distributed Proximal Policy Optimization: arxiv.org/abs/1707.02286
-106. <kbd>1400+</kbd> [UNIT](https://github.com/mingyuliutw/UNIT): PyTorch Implementation of our Coupled VAE-GAN algorithm for Unsupervised Image-to-Image Translation
+100. <kbd>1000-</kbd> [YellowFin_Pytorch](https://github.com/JianGoForIt/YellowFin_Pytorch): 基于动量梯度下降（momentum SGD）的自动调优优化器，无需手动指定学习速率和动量。
+101. <kbd>1000-</kbd> [samplernn-pytorch](https://github.com/deepsound-project/samplernn-pytorch): PyTorch实现SampleRNN: 一种无条件端到端神经音频生成模型。
+102. <kbd>1000-</kbd> [AEGeAN](https://github.com/tymokvo/AEGeAN): 基于AE稳定的更深的深度卷积生成对抗网络(DCGAN, Deep Convolution Generative Adversarial Networks)。
+103. <kbd>1000-</kbd> [/pytorch-SRResNet](https://github.com/twtygqyy/pytorch-SRResNet): PyTorch实现“[基于生成对抗网络的实感单幅图像超分辨率](https://arxiv.org/abs/1609.04802)”。
+104. <kbd>1000-</kbd> [vsepp](https://github.com/fartashf/vsepp): 论文代码，"[VSE++:使用难分样本(Hard Negative)改善视觉语义联合嵌入](https://arxiv.org/abs/1707.05612)"。
+105. <kbd>1000-</kbd> [Pytorch-DPPO](https://github.com/alexis-jacq/Pytorch-DPPO): Pytorch实现分布式近端策略优化([Distributed Proximal Policy Optimization](https://arxiv.org/abs/1707.02286))。
+106. <kbd>1400+</kbd> [UNIT](https://github.com/mingyuliutw/UNIT): 无监督的图像到图像转换网络，[论文](https://arxiv.org/abs/1703.00848)。
 107. <kbd>1000+</kbd> [efficient_densenet_pytorch](https://github.com/gpleiss/efficient_densenet_pytorch): DenseNets的内存高效实现。
 108. <kbd>1000-</kbd> [tsn-pytorch](https://github.com/yjxiong/tsn-pytorch): PyTorch实现时间分割网络(TSN, Temporal Segment Networks)。
 109. <kbd>1000-</kbd> [SMASH](https://github.com/ajbrock/SMASH): [SMASH](https://arxiv.org/abs/1708.05344)，一种高效地探索神经体系结构的实验技术。
@@ -416,7 +416,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 126. <kbd>1000-</kbd> [bandit-nmt](https://github.com/khanhptnk/bandit-nmt): This is code repo for our EMNLP 2017 paper "Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback", which implements the A2C algorithm on top of a neural encoder-decoder model and benchmarks the combination under simulated noisy rewards.
 127. <kbd>1500+</kbd> [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr): PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR).
 128. <kbd>1000-</kbd> [zalando-pytorch](https://github.com/baldassarreFe/zalando-pytorch): Various experiments on the [Fashion-MNIST](zalandoresearch/fashion-mnist) dataset from Zalando.
-129. <kbd>1000-</kbd> [sphereface_pytorch](https://github.com/clcarwin/sphereface_pytorch): A PyTorch Implementation of SphereFace.
+129. <kbd>1000-</kbd> [sphereface_pytorch](https://github.com/clcarwin/sphereface_pytorch): PyTorch实现SphereFace，人脸识别相关，https://arxiv.org/abs/1704.08063 。
 130. <kbd>1000-</kbd> [Categorical DQN](https://github.com/floringogianu/categorical-dqn): A PyTorch Implementation of Categorical DQN from [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887).
 131. <kbd>1000-</kbd> [pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm): pytorch ntm implementation. 
 132. <kbd>null</kbd> [mask_rcnn_pytorch](https://github.com/felixgwu/mask_rcnn_pytorch): Mask RCNN in PyTorch.
@@ -449,15 +449,15 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 159. <kbd>1000-</kbd> [SFD_pytorch](https://github.com/clcarwin/SFD_pytorch): A PyTorch Implementation of Single Shot Scale-invariant Face Detector.
 160. <kbd>1000-</kbd> [GradientEpisodicMemory](https://github.com/facebookresearch/GradientEpisodicMemory): Continuum Learning with GEM: Gradient Episodic Memory. https://arxiv.org/abs/1706.08840
 161. <kbd>1400+</kbd> [DeblurGAN](https://github.com/KupynOrest/DeblurGAN): Pytorch implementation of the paper DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks.
-162. <kbd>4000+</kbd> [StarGAN](https://github.com/yunjey/StarGAN): StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation.
+162. <kbd>4000+</kbd> [StarGAN](https://github.com/yunjey/StarGAN): StarGAN: 多领域图像转换 GAN 网络，https://arxiv.org/abs/1711.09020 。
 163. <kbd>1000-</kbd> [CapsNet-pytorch](https://github.com/adambielski/CapsNet-pytorch): PyTorch implementation of NIPS 2017 paper Dynamic Routing Between Capsules.
 164. <kbd>1000-</kbd> [CondenseNet](https://github.com/ShichenLiu/CondenseNet): CondenseNet: An Efficient DenseNet using Learned Group Convolutions.
 165. <kbd>5000+</kbd> [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior): 基于神经网络的图像修复，无学习过程。
 166. <kbd>1000-</kbd> [deep-head-pose](https://github.com/natanielruiz/deep-head-pose): Deep Learning Head Pose Estimation using PyTorch.
 167. <kbd>1000-</kbd> [Random-Erasing](https://github.com/zhunzhong07/Random-Erasing): This code has the source code for the paper "Random Erasing Data Augmentation".
-168. <kbd>1000-</kbd> [FaderNetworks](https://github.com/facebookresearch/FaderNetworks): Fader Networks: Manipulating Images by Sliding Attributes - NIPS 2017
+168. <kbd>1000-</kbd> [FaderNetworks](https://github.com/facebookresearch/FaderNetworks): Fader Networks: 通过滑动属性重构图像 - NIPS 2017，https://arxiv.org/pdf/1706.00409.pdf 。
 169. <kbd>1400+</kbd> [FlowNet 2.0](https://github.com/NVIDIA/flownet2-pytorch): FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
-170. <kbd>3800+</kbd> [pix2pixHD](https://github.com/NVIDIA/pix2pixHD): Synthesizing and manipulating 2048x1024 images with conditional GANs tcwang0509.github.io/pix2pixHD 
+170. <kbd>3800+</kbd> [pix2pixHD](https://github.com/NVIDIA/pix2pixHD): 利用条件 GANs 合成和处理 HD 高清图像的 PyTorch 实现，https://arxiv.org/pdf/1711.11585.pdf。
 171. <kbd>1000-</kbd> [pytorch-smoothgrad](https://github.com/pkdn/pytorch-smoothgrad): SmoothGrad implementation in PyTorch
 172. <kbd>1000-</kbd> [RetinaNet](https://github.com/c0nn3r/RetinaNet): An implementation of RetinaNet in PyTorch.
 173. <kbd>3900+</kbd> [faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch): This project is a faster faster R-CNN implementation, aimed to accelerating the training of faster R-CNN object detection models. 
@@ -489,11 +489,11 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 199. <kbd>1000-</kbd> [adversarial-patch](https://github.com/jhayes14/adversarial-patch): PyTorch implementation of adversarial patch. 
 200. <kbd>1000-</kbd> [Prototypical-Networks-for-Few-shot-Learning-PyTorch](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch): Implementation of Prototypical Networks for Few Shot Learning (arxiv.org/abs/1703.05175) in Pytorch
 201. <kbd>1000-</kbd> [Visual-Feature-Attribution-Using-Wasserstein-GANs-Pytorch](https://github.com/orobix/Visual-Feature-Attribution-Using-Wasserstein-GANs-Pytorch): Implementation of Visual Feature Attribution using Wasserstein GANs (arxiv.org/abs/1711.08998) in PyTorch.
-202. <kbd>1000-</kbd> [PhotographicImageSynthesiswithCascadedRefinementNetworks-Pytorch](https://github.com/Blade6570/PhotographicImageSynthesiswithCascadedRefinementNetworks-Pytorch): Photographic Image Synthesis with Cascaded Refinement Networks - Pytorch Implementation
+202. <kbd>1000-</kbd> [PhotographicImageSynthesiswithCascadedRefinementNetworks-Pytorch](https://github.com/Blade6570/PhotographicImageSynthesiswithCascadedRefinementNetworks-Pytorch): 用级联优化网络生成照片级图像，https://arxiv.org/abs/1707.09405 。
 203. <kbd>1900+</kbd> [ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch): PyTorch implementation of "Efficient Neural Architecture Search via Parameters Sharing". 
-204. <kbd>1000-</kbd> [Neural-IMage-Assessment](https://github.com/kentsyx/Neural-IMage-Assessment): A PyTorch Implementation of Neural IMage Assessment. 
+204. <kbd>1000-</kbd> [Neural-IMage-Assessment](https://github.com/kentsyx/Neural-IMage-Assessment): 神经图片评估，https://arxiv.org/abs/1709.05424 。
 205. <kbd>1000-</kbd> [proxprop](https://github.com/tfrerix/proxprop): Proximal Backpropagation - a neural network training algorithm that takes implicit instead of explicit gradient steps.
-206. <kbd>9800+</kbd> [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle): A Closed-form Solution to Photorealistic Image Stylization
+206. <kbd>9800+</kbd> [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle): 照片级逼真的图像风格化的一个封闭解。
 207. <kbd>1000-</kbd> [Deep-Image-Analogy-PyTorch](https://github.com/Ben-Louis/Deep-Image-Analogy-PyTorch): 基于PyTorch的深度图像模拟的Python实现。
 208. <kbd>1400+</kbd> [Person-reID_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch): 行人再识别Person-reID的PyTorch实现。
 209. <kbd>1000-</kbd> [pt-dilate-rnn](https://github.com/zalandoresearch/pt-dilate-rnn): 空洞递归神经网络（Dilated RNNs）。
@@ -501,7 +501,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 211. <kbd>1000-</kbd> [OrthNet](https://github.com/Orcuslc/OrthNet): TensorFlow and PyTorch layers for generating Orthogonal Polynomials.
 212. <kbd>1000-</kbd> [DRRN-pytorch](https://github.com/jt827859032/DRRN-pytorch): An implementation of Deep Recursive Residual Network for Super Resolution (DRRN), CVPR 2017
 213. <kbd>1000-</kbd> [shampoo.pytorch](https://github.com/moskomule/shampoo.pytorch): An implementation of shampoo.
-214. <kbd>1000-</kbd> [Neural-IMage-Assessment 2](https://github.com/truskovskiyk/nima.pytorch): A PyTorch Implementation of Neural IMage Assessment.
+214. <kbd>1000-</kbd> [Neural-IMage-Assessment 2](https://github.com/truskovskiyk/nima.pytorch): 神经图片评估，https://arxiv.org/abs/1709.05424 。
 215. <kbd>1800+</kbd> [TCN](https://github.com/locuslab/TCN): Sequence modeling benchmarks and temporal convolutional networks locuslab/TCN
 216. <kbd>1000-</kbd> [DCC](https://github.com/shahsohil/DCC): This repository contains the source code and data for reproducing results of Deep Continuous Clustering paper.
 217. <kbd>1000-</kbd> [packnet](https://github.com/arunmallya/packnet): Code for PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning arxiv.org/abs/1711.05769
@@ -574,8 +574,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 284. <kbd>1000-</kbd> [torch_waveglow](https://github.com/npuichigo/waveglow): A PyTorch implementation of the WaveGlow: A Flow-based Generative Network for Speech Synthesis. 
 285. <kbd>2000+</kbd> [3DDFA](https://github.com/cleardusk/3DDFA): The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
 286. <kbd>1000+</kbd> [loss-landscape](https://github.com/tomgoldstein/loss-landscape): loss-landscape Code for visualizing the loss landscape of neural nets.
-287. <kbd>1000-</kbd> [famos](https://github.com/zalandoresearch/famos): 
-Pytorch implementation of the paper "Copy the Old or Paint Anew? An Adversarial Framework for (non-) Parametric Image Stylization" available at http://arxiv.org/abs/1811.09236.
+287. <kbd>1000-</kbd> [famos](https://github.com/zalandoresearch/famos):（非）参数图像风格化马赛克的对抗性框架。论文：http://arxiv.org/abs/1811.09236 。
 288. <kbd>1000-</kbd> [back2future.pytorch](https://github.com/anuragranj/back2future.pytorch): This is a Pytorch implementation of
 Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learning of Multi-Frame Optical Flow with Occlusions. ECCV 2018.
 289. <kbd>1000-</kbd> [FFTNet](https://github.com/mozilla/FFTNet): Unofficial Implementation of FFTNet vocode paper.
@@ -601,12 +600,12 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 309. <kbd>1000-</kbd> [NGCN](https://github.com/benedekrozemberczki/MixHop-and-N-GCN): A Higher-Order Graph Convolutional Layer. NeurIPS 2018.
 310. <kbd>1000-</kbd> [gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch): Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
 311. <kbd>1000-</kbd> [Splitter](https://github.com/benedekrozemberczki/Splitter): Splitter: Learning Node Representations that Capture Multiple Social Contexts. (WWW 2019).
-312. <kbd>1000-</kbd> [CapsGNN](https://github.com/benedekrozemberczki/CapsGNN): Capsule Graph Neural Network. (ICLR 2019).
+312. <kbd>1000-</kbd> [CapsGNN](https://github.com/benedekrozemberczki/CapsGNN): 胶囊图神经网络，[Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)。
 313. <kbd>1500+</kbd> [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch): The author's officially unofficial PyTorch BigGAN implementation.
 314. <kbd>1000-</kbd> [ppo_pytorch_cpp](https://github.com/mhubii/ppo_pytorch_cpp): This is an implementation of the proximal policy optimization algorithm for the C++ API of Pytorch.
-315. <kbd>1000-</kbd> [RandWireNN](https://github.com/seungwonpark/RandWireNN): Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition".
+315. <kbd>1000-</kbd> [RandWireNN](https://github.com/seungwonpark/RandWireNN): 基于随机连接神经网络性能的图像识别。
 316. <kbd>1000-</kbd> [Zero-shot Intent CapsNet](https://github.com/joel-huang/zeroshot-capsnet-pytorch): GPU-accelerated PyTorch implementation of "Zero-shot User Intent Detection via Capsule Neural Networks".
-317. <kbd>1000-</kbd> [SEAL-CI](https://github.com/benedekrozemberczki/SEAL-CI) Semi-Supervised Graph Classification: A Hierarchical Graph Perspective. (WWW 2019).
+317. <kbd>1000-</kbd> [SEAL-CI](https://github.com/benedekrozemberczki/SEAL-CI) 半监督图分类：层次图视角，Semi-Supervised Graph Classification: A Hierarchical Graph Perspective. (WWW 2019)。
 318. <kbd>1000-</kbd> [MixHop](https://github.com/benedekrozemberczki/MixHop-and-N-GCN): MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing. ICML 2019.
 319. <kbd>1000-</kbd> [densebody_pytorch](https://github.com/Lotayou/densebody_pytorch): PyTorch implementation of CloudWalk's recent paper DenseBody.
 320. <kbd>1000-</kbd> [voicefilter](https://github.com/mindslab-ai/voicefilter): Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter. 
