@@ -404,12 +404,12 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 114. <kbd>1000-</kbd> [ORN](https://github.com/ZhouYanzhao/ORN): PyTorch 实现 CVPR 2017 论文 "[Oriented Response Networks](https://arxiv.org/pdf/1701.01833.pdf)"。
 115. <kbd>1000-</kbd> [pytorch-maml](https://github.com/katerakelly/pytorch-maml): PyTorch实现 [MAML](https://arxiv.org/abs/1703.03400)（Model-Agnostic Meta-Learning，与模型无关的元学习）。
 116. <kbd>1700+</kbd> [pytorch-generative-model-collections](https://github.com/znxlwm/pytorch-generative-model-collections): PyTorch中的各种生成模型集合。
-117. <kbd>1000-</kbd> [vqa-winner-cvprw-2017](https://github.com/markdtw/vqa-winner-cvprw-2017): Pytorch Implementation of winner from VQA Chllange Workshop in CVPR'17. 
+117. <kbd>1000-</kbd> [vqa-winner-cvprw-2017](https://github.com/markdtw/vqa-winner-cvprw-2017): Pytorch 实现 CVPR'17 VQA( Visual Question Answer，视觉问答) 挑战冠军。
 118. <kbd>1000-</kbd> [tacotron_pytorch](https://github.com/r9y9/tacotron_pytorch):  PyTorch 实现 Tacotron 语音合成模型。
 119. <kbd>1000-</kbd> [pspnet-pytorch](https://github.com/Lextal/pspnet-pytorch): PyTorch 实现 PSPNet 语义分割网络。
 120. <kbd>1000-</kbd> [LM-LSTM-CRF](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF): Empower Sequence Labeling with Task-Aware Language Model http://arxiv.org/abs/1709.04109
 121. <kbd>3100+</kbd> [face-alignment](https://github.com/1adrianb/face-alignment): 使用PyTorch构建2D和3D人脸对齐库。
-122. <kbd>1000-</kbd> [DepthNet](https://github.com/ClementPinard/DepthNet): PyTorch DepthNet Training on Still Box dataset. 
+122. <kbd>1000-</kbd> [DepthNet](https://github.com/ClementPinard/DepthNet): PyTorch 在Still Box数据集上训练DepthNet。
 123. <kbd>1000-</kbd> [EDSR-PyTorch](https://github.com/thstkdgus35/EDSR-PyTorch): PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
 124. <kbd>1000-</kbd> [e2c-pytorch](https://github.com/ethanluoyc/e2c-pytorch): E2C，Embed to Control 实现。
 125. <kbd>1500+</kbd> [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch): 基于3D残差网络的动作识别。
