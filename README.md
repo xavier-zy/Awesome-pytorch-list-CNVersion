@@ -61,6 +61,10 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 34. <kbd>1000-</kbd> [transfer-nlp](https://github.com/feedly/transfer-nlp): 为可复制实验管理而设计的NLP库。
 35. <kbd>1000-</kbd> [texar-pytorch](https://github.com/asyml/texar-pytorch): 机器学习和文本生成工具包。 texar.io
 36. <kbd>1200+</kbd> [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi): pytorch-kaldi 是一个开发中的最先进的dnn/rnn混合语音识别系统。其DNN部分由PyTorch实现，而特征提取、标签计算和解码由kaldi工具包完成。
+37. [NeMo](https://github.com/NVIDIA/NeMo): Neural Modules: a toolkit for conversational AI nvidia.github.io/NeMo
+38. [pytorch-struct](https://github.com/harvardnlp/pytorch-struct): A library of vectorized implementations of core structured prediction algorithms (HMM, Dep Trees, CKY, ..,)
+39. [espresso](https://github.com/freewym/espresso): Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
+40. [transformers](https://github.com/huggingface/transformers): hugs Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. huggingface.co/transformers
 
 ### CV｜计算机视觉:
 
@@ -77,12 +81,16 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 11. <kbd>1000-</kbd> [detectorch](https://github.com/ignacio-rocco/detectorch): Detectorch - PyTorch版detectron框架，目前仅有detectron的推断(inference)和评估(evalutaion)功能，无训练(training)功能。
 12. <kbd>3500+</kbd> [Augmentor](https://github.com/mdbloice/Augmentor): 用于机器学习的图像增强库。 http://augmentor.readthedocs.io
 13. <kbd>1000-</kbd> [s2cnn](https://github.com/jonas-koehler/s2cnn): Spherical CNNs：球面卷积网络的PyTorch实现。 (e.g. 全方位图像、全球信号)
-14. <kbd>1500+</kbd> [PyTorchCV](https://github.com/CVBox/PyTorchCV): 基于PyTorch的计算机视觉深度学习框架。
+14. [TorchCV](https://github.com/donnyyou/torchcv): A PyTorch-Based Framework for Deep Learning in Computer Vision. 
 15. <kbd>6800+</kbd> [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark): 实例分割与对象检测的快速模块化参考实现。
 16. <kbd>1000-</kbd> [image-classification-mobile](https://github.com/osmr/imgclsmob): 计算机视觉卷积网络训练沙盒，包含ImageNet-1K上的与训练分类模型集合。
 17. <kbd>1000-</kbd> [medicaltorch](https://github.com/perone/medicaltorch): 一个医学成像框架。http://medicaltorch.readthedocs.io
 18. <kbd>3800+</kbd> [albumentations](https://github.com/albu/albumentations): 快速图像增强库和其他库的易用包装器。
 19. <kbd>1400+</kbd> [kornia](https://github.com/arraiyopensource/kornia): 开源可微计算机视觉库。https://kornia.org
+20. [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition): Text recognition combo - CRAFT + CRNN.
+21. [facenet-pytorch](https://github.com/timesler/facenet-pytorch): Pretrained Pytorch face detection and recognition models ported from davidsandberg/facenet.
+22. [detectron2](https://github.com/facebookresearch/detectron2): Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
+23. [vedaseg](https://github.com/Media-Smart/vedaseg): A semantic segmentation framework by pyotrch
 
 
 ### Probabilistic/Generative Libraries｜概率库和生成库:
@@ -218,7 +226,19 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 116. <kbd>1000-</kbd> [pytorch-cpp-rl](https://github.com/Omegastick/pytorch-cpp-rl): CppRl是一个强化学习框架，用 PyTorch C++ 前端编写。
 117. <kbd>1000-</kbd> [pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt): PyTorch扩展，用来进行快速R&D原型开发和Kaggle代码收集。
 118. <kbd>1000-</kbd> [argus-tensor-stream](https://github.com/Fonbet/argus-tensor-stream): 一个库，用来将实时视频流解码至CUDA内存。tensorstream.argus-ai.com
-129. <kbd>1000-</kbd> [macarico](https://github.com/hal3/macarico): 在PyTorch中学习搜索。
+119. <kbd>1000-</kbd> [macarico](https://github.com/hal3/macarico): 在PyTorch中学习搜索。
+120. [rlpyt](https://github.com/astooke/rlpyt): Reinforcement Learning in PyTorch
+121. [pywarm](https://github.com/blue-season/pywarm): A cleaner way to build neural networks for PyTorch. blue-season.github.io/pywarm
+122. [learn2learn](https://github.com/learnables/learn2learn): PyTorch Meta-learning Framework for Researchers http://learn2learn.net
+123. [torchbeast](https://github.com/facebookresearch/torchbeast): A PyTorch Platform for Distributed RL
+124. [higher](https://github.com/facebookresearch/higher): higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
+125. [Torchelie](https://github.com/Vermeille/Torchelie/): Torchélie is a set of utility functions, layers, losses, models, trainers and other things for PyTorch. torchelie.readthedocs.org 
+126. [CrypTen](https://github.com/facebookresearch/CrypTen): CrypTen is a Privacy Preserving Machine Learning framework written using PyTorch that allows researchers and developers to train models using encrypted data. CrypTen currently supports Secure multi-party computation as its encryption mechanism.
+127. [cvxpylayers](https://github.com/cvxgrp/cvxpylayers): cvxpylayers is a Python library for constructing differentiable convex optimization layers in PyTorch
+128. [RepDistiller](https://github.com/HobbitLong/RepDistiller): Contrastive Representation Distillation (CRD), and benchmark of recent knowledge distillation methods
+129. [kaolin](https://github.com/NVIDIAGameWorks/kaolin): PyTorch library aimed at accelerating 3D deep learning research
+130. [PySNN](https://github.com/BasBuller/PySNN): Efficient Spiking Neural Network framework, built on top of PyTorch for GPU acceleration.
+131. [sparktorch](https://github.com/dmmiller612/sparktorch): Train and run Pytorch models on Apache Spark.
 
 ## Tutorials & examples｜教程 & 示例
 
@@ -624,6 +644,10 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 331. <kbd>1000-</kbd> [Aspect-level-sentiment](https://github.com/ruidan/Aspect-level-sentiment): 论文代码和数据集，ACL2018论文："[利用文档知识进行体层情感分类](https://arxiv.org/abs/1806.04346)"。
 332. <kbd>1000-</kbd> [breast_cancer_classifier](https://github.com/nyukat/breast_cancer_classifier): 深层神经网络提高放射科医生乳腺癌筛查的效果，https://arxiv.org/abs/1903.08297 。
 333. <kbd>1000-</kbd> [DGC-Net](https://github.com/AaltoVision/DGC-Net): PyTorch实现"[DGC-Net: 密集几何对应网络](https://arxiv.org/abs/1810.08393)".
+334. [universal-triggers](https://github.com/Eric-Wallace/universal-triggers): Universal Adversarial Triggers for Attacking and Analyzing NLP (EMNLP 2019)
+335. [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch): PyTorch implementations of deep reinforcement learning algorithms and environments.
+336. [simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch): A pytorch implementation of the ACL2019 paper "Simple and Effective Text Matching with Richer Alignment Features".
+337. [Adaptive-segmentation-mask-attack (ASMA)](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack): A pytorch implementation of the MICCAI2019 paper "Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation".
 
 ## Talks & conferences｜报告 & 会议
 
@@ -667,5 +691,6 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 34. <kbd>1000-</kbd> [pytorch-cpp-inference](https://github.com/Wizaron/pytorch-cpp-inference): 包含使用PyTorch C++ API执行推断的各种示例。
 35. <kbd>1000-</kbd> [tch-rs](https://github.com/LaurentMazare/tch-rs): PyTorch的Rust绑定。
 36. <kbd>1000-</kbd> [TorchSharp](https://github.com/interesaaat/TorchSharp): Pytorch引擎的.NET绑定。
+37. [ML Workspace](https://github.com/ml-tooling/ml-workspace): All-in-one web IDE for machine learning and data science. Combines Jupyter, VS Code, PyTorch, and many other tools/libraries into one Docker image.
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
