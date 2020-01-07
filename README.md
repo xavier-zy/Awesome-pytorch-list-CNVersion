@@ -307,6 +307,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 63. <kbd>1000-</kbd> [thinking-in-tensors-writing-in-pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch):  张量思维，PyTorch实践 (深度学习入门)。
 64. <kbd>1000-</kbd> [NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch): 命名试题识别的PyTorch解决方案，使用了Google AI的预训练BERT模型。
 65. <kbd>1000-</kbd> [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): 如何在 PyTorch 中使用交叉复制（Cross Replica）/同步批标准化（Synchronized Batchnorm）。
+66. [SentimentAnalysis](https://github.com/barissayil/SentimentAnalysis): Sentiment analysis neural network trained by fine tuning BERT on the Stanford Sentiment Treebank, thanks to [Hugging Face](https://huggingface.co/transformers/)'s Transformers library.
 
 ## Paper implementations｜论文实现
 
