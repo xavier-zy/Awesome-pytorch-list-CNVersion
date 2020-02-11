@@ -437,21 +437,21 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 117. <kbd>1000-</kbd> [vqa-winner-cvprw-2017](https://github.com/markdtw/vqa-winner-cvprw-2017): Pytorch 实现 CVPR'17 VQA( Visual Question Answer，视觉问答) 挑战冠军。
 118. <kbd>1000-</kbd> [tacotron_pytorch](https://github.com/r9y9/tacotron_pytorch):  PyTorch 实现 Tacotron 语音合成模型。
 119. <kbd>1000-</kbd> [pspnet-pytorch](https://github.com/Lextal/pspnet-pytorch): PyTorch 实现 PSPNet 语义分割网络。
-120. <kbd>1000-</kbd> [LM-LSTM-CRF](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF): Empower Sequence Labeling with Task-Aware Language Model http://arxiv.org/abs/1709.04109
+120. <kbd>1000-</kbd> [LM-LSTM-CRF](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF): 《Empower Sequence Labeling with Task-Aware Language Model》 http://arxiv.org/abs/1709.04109
 121. <kbd>3200+</kbd> [face-alignment](https://github.com/1adrianb/face-alignment): 使用PyTorch构建2D和3D人脸对齐库。
 122. <kbd>1000-</kbd> [DepthNet](https://github.com/ClementPinard/DepthNet): PyTorch 在Still Box数据集上训练DepthNet。
-123. <kbd>1000-</kbd> [EDSR-PyTorch](https://github.com/thstkdgus35/EDSR-PyTorch): PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
+123. <kbd>1000-</kbd> [EDSR-PyTorch](https://github.com/thstkdgus35/EDSR-PyTorch): 论文《Enhanced Deep Residual Networks for Single Image Super-Resolution》的PyTorch实现版本。 (CVPRW 2017)
 124. <kbd>1000-</kbd> [e2c-pytorch](https://github.com/ethanluoyc/e2c-pytorch): E2C，Embed to Control 实现。
 125. <kbd>1700+</kbd> [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch): 基于3D残差网络的动作识别。
-126. <kbd>1000-</kbd> [bandit-nmt](https://github.com/khanhptnk/bandit-nmt): This is code repo for our EMNLP 2017 paper "Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback", which implements the A2C algorithm on top of a neural encoder-decoder model and benchmarks the combination under simulated noisy rewards.
-127. <kbd>1500+</kbd> [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr): PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR).
+126. <kbd>1000-</kbd> [bandit-nmt](https://github.com/khanhptnk/bandit-nmt): EMNLP 2017 论文《Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback》的代码,，改论文在神经编解码模型的基础上实现了A2C算法，并在模拟噪声激励下对组合进行了基准测试。
+127. <kbd>1500+</kbd> [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr): PyTorch 实现 Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO，近端策略优化) 和可扩展信赖域（Trust Region）方法，这些算法使用 Kronecker因子近似（ACKTR）和生成对抗模仿学习（GAIL）实现，可用于深度强化学习。
 128. <kbd>1000-</kbd> [zalando-pytorch](https://github.com/baldassarreFe/zalando-pytorch): [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)数据集上的各种实验。
 129. <kbd>1000-</kbd> [sphereface_pytorch](https://github.com/clcarwin/sphereface_pytorch): PyTorch实现SphereFace，人脸识别相关，https://arxiv.org/abs/1704.08063 。
-130. <kbd>1000-</kbd> [Categorical DQN](https://github.com/floringogianu/categorical-dqn): A PyTorch Implementation of Categorical DQN from [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887).
+130. <kbd>1000-</kbd> [Categorical DQN](https://github.com/floringogianu/categorical-dqn): PyTorch 版 Categorical DQN，该模型来自论文《[A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887)》。
 131. <kbd>1000-</kbd> [pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm): 神经网络图灵机。
 132. <kbd>null</kbd> [mask_rcnn_pytorch](https://github.com/felixgwu/mask_rcnn_pytorch): Mask RCNN in PyTorch.
-133. <kbd>1000-</kbd> [graph_convnets_pytorch](https://github.com/xbresson/graph_convnets_pytorch): PyTorch implementation of graph ConvNets, NIPS’16
-134. <kbd>1300+</kbd> [pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn): A pytorch implementation of faster RCNN detection framework based on Xinlei Chen's tf-faster-rcnn.
+133. <kbd>1000-</kbd> [graph_convnets_pytorch](https://github.com/xbresson/graph_convnets_pytorch): PyTorch 实现图卷积神经网络，NIPS’16。
+134. <kbd>1300+</kbd> [pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn): PyTorch实现 faster RCNN 检测框架，基于 Xinlei Chen 的[tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)，已不再维护。
 135. <kbd>1000-</kbd> [torchMoji](https://github.com/huggingface/torchMoji): A pyTorch implementation of the DeepMoji model: state-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc.
 136. <kbd>2700+</kbd> [semantic-segmentation-pytorch](https://github.com/hangzhaomit/semantic-segmentation-pytorch): 在[MIT ADE20K dataset](http://sceneparsing.csail.mit.edu)数据集上实现语义分割/场景解析。
 137. <kbd>1000+</kbd> [pytorch-qrnn](https://github.com/salesforce/pytorch-qrnn): PyTorch implementation of the Quasi-Recurrent Neural Network - up to 16 times faster than NVIDIA's cuDNN LSTM
