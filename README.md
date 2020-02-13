@@ -246,6 +246,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 132. [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning): 在应用程序中使用度量学习的最简单方法。模块化，灵活，可扩展。用 PyTorch 构建。
 133. [autonomous-learning-library](https://github.com/cpnota/autonomous-learning-library): 用于建立深度强化学习代理的 PyTorch 库。
 134. [flambe](https://github.com/asappresearch/flambe): 一个用于加速研究及其生产路径的ML框架。https://flambe.ai
+135. [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer): Collections of modern optimization algorithms for PyTorch, includes: AccSGD, AdaBound, AdaMod, DiffGrad, Lamb, RAdam, RAdam, Yogi.
 
 ## Tutorials & examples｜教程 & 示例
 
@@ -701,5 +702,6 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 35. <kbd>1000-</kbd> [tch-rs](https://github.com/LaurentMazare/tch-rs): PyTorch的Rust绑定。
 36. <kbd>1000-</kbd> [TorchSharp](https://github.com/interesaaat/TorchSharp): Pytorch引擎的.NET绑定。
 37. [ML Workspace](https://github.com/ml-tooling/ml-workspace): 面向机器学习和数据科学的一体化Web IDE。包含Jupyter, VS Code, PyTorch 和许多其他工具或库，这些都集合在一个Docker映像中。
+38. [PyTorch Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide) Style guide for PyTorch code. Consistent and good code style helps collaboration and prevents errors!
 
 **Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.**
