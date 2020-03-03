@@ -247,6 +247,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 133. <kbd>1000-</kbd> [autonomous-learning-library](https://github.com/cpnota/autonomous-learning-library): 用于建立深度强化学习代理的 PyTorch 库。
 134. <kbd>1000-</kbd> [flambe](https://github.com/asappresearch/flambe): 一个用于加速研究及其生产路径的ML框架。https://flambe.ai
 135. <kbd>1000-</kbd> [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer): Collections of modern optimization algorithms for PyTorch, includes: AccSGD, AdaBound, AdaMod, DiffGrad, Lamb, RAdam, RAdam, Yogi.
+136. [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE): A Collection of Variational Autoencoders (VAE) in PyTorch.
 
 ## Tutorials & examples｜教程 & 示例
 
@@ -316,6 +317,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 64. <kbd>1000-</kbd> [NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch): 命名试题识别的PyTorch解决方案，使用了Google AI的预训练BERT模型。
 65. <kbd>1000-</kbd> [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): 如何在 PyTorch 中使用交叉复制（Cross Replica）/同步批标准化（Synchronized Batchnorm）。
 66. <kbd>1000-</kbd> [SentimentAnalysis](https://github.com/barissayil/SentimentAnalysis): 情绪分析神经网络，在斯坦福情绪树库上用微调BERT训练得到。
+67. [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp): C++ implementations of PyTorch tutorials for deep learning researchers (based on the Python tutorials from [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)).
 
 ## Paper implementations｜论文实现
 
