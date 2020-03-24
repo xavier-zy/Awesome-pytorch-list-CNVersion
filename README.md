@@ -95,7 +95,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 24. <kbd>1000-</kbd> [ClassyVision](https://github.com/facebookresearch/ClassyVision): A用于图像和视频分类的端到端PyTorch框架。https://classyvision.ai
 25. <kbd>1000-</kbd> [detecto](https://github.com/alankbi/detecto): 用 5 行代码构建功能完备的计算机视觉模型。https://detecto.readthedocs.io/
 26. <kbd>2300+</kbd> [pytorch3d](https://github.com/facebookresearch/pytorch3d): PyTorch3d 是一个面向深度学习的高效、可复用的 3D 计算机视觉库。 https://pytorch3d.org/
-
+27. <kbd>8800+</kbd>[MMDetection](https://github.com/open-mmlab/mmdetection): MMDetection is an open source object detection toolbox, a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
 
 ### Probabilistic/Generative Libraries｜概率库和生成库:
 
