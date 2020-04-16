@@ -248,7 +248,8 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 133. <kbd>1000-</kbd> [autonomous-learning-library](https://github.com/cpnota/autonomous-learning-library): 用于建立深度强化学习代理的 PyTorch 库。
 134. <kbd>1000-</kbd> [flambe](https://github.com/asappresearch/flambe): 一个用于加速研究及其生产路径的ML框架。https://flambe.ai
 135. <kbd>1000-</kbd> [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer): Collections of modern optimization algorithms for PyTorch, includes: AccSGD, AdaBound, AdaMod, DiffGrad, Lamb, RAdam, RAdam, Yogi.
-136. [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE): A Collection of Variational Autoencoders (VAE) in PyTorch.
+136. <kbd>1000-</kbd>[PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE): A Collection of Variational Autoencoders (VAE) in PyTorch.
+137. <kbd>11100+</kbd>[ray](https://github.com/ray-project/ray): A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ray.io
 
 ## Tutorials & examples｜教程 & 示例
 
