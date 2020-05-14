@@ -320,6 +320,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 65. <kbd>1000-</kbd> [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): 如何在 PyTorch 中使用交叉复制（Cross Replica）/同步批标准化（Synchronized Batchnorm）。
 66. <kbd>1000-</kbd> [SentimentAnalysis](https://github.com/barissayil/SentimentAnalysis): 情绪分析神经网络，在斯坦福情绪树库上用微调BERT训练得到。
 67. [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp): C++ implementations of PyTorch tutorials for deep learning researchers (based on the Python tutorials from [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)).
+68. [Deep Learning with PyTorch: Zero to GANs](https://jovian.ml/aakashns/collections/deep-learning-with-pytorch): Interactive and coding-focused tutorial series on introduction to Deep Learning with PyTorch ([video](https://www.youtube.com/watch?v=GIsg-ZUy0MY)).
 
 ## Paper implementations｜论文实现
 
