@@ -14,7 +14,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
     - [CV｜计算机视觉:](#cv%EF%BD%9C%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)
     - [Probabilistic/Generative Libraries｜概率库和生成库:](#probabilisticgenerative-libraries%EF%BD%9C%E6%A6%82%E7%8E%87%E5%BA%93%E5%92%8C%E7%94%9F%E6%88%90%E5%BA%93)
     - [Other libraries｜其他库:](#other-libraries%EF%BD%9C%E5%85%B6%E4%BB%96%E5%BA%93)
-  - [Tutorials & examples｜教程 & 示例](#tutorials-examples%EF%BD%9C%E6%95%99%E7%A8%8B-%E7%A4%BA%E4%BE%8B)
+  - [Tutorials & books & examples｜教程 & 书籍 & 示例](#tutorials-books-examples%EF%BD%9C%E6%95%99%E7%A8%8B-%E4%B9%A6%E7%B1%8D-%E7%A4%BA%E4%BE%8B)
   - [Paper implementations｜论文实现](#paper-implementations%EF%BD%9C%E8%AE%BA%E6%96%87%E5%AE%9E%E7%8E%B0)
   - [Talks & conferences｜报告 & 会议](#talks-conferences%EF%BD%9C%E6%8A%A5%E5%91%8A-%E4%BC%9A%E8%AE%AE)
   - [Pytorch elsewhere ｜ Pytorch相关](#pytorch-elsewhere-%EF%BD%9C-pytorch%E7%9B%B8%E5%85%B3)
@@ -97,6 +97,8 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 26. <kbd>2300+</kbd> [pytorch3d](https://github.com/facebookresearch/pytorch3d): PyTorch3d 是一个面向深度学习的高效、可复用的 3D 计算机视觉库。 https://pytorch3d.org/
 27. <kbd>8800+</kbd> [MMDetection](https://github.com/open-mmlab/mmdetection): MMDetection 是一个开源的目标检测工具箱，属于 open-mmlab 项目，由 [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/) 开发。
 28. <kbd>1000-</kbd> [neural-dream](https://github.com/ProGamerGov/neural-dream): DeepDream 算法的 PyTorch 实现，可以创造梦一样的幻觉视觉效果。
+29. <kbd>1000-</kbd> [FlashTorch](https://github.com/MisaOgura/flashtorch): Visualization toolkit for neural networks in PyTorch!
+30. <kbd>1000-</kbd> [Lucent](https://github.com/greentfrapp/lucent): Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
 
 ### Probabilistic/Generative Libraries｜概率库和生成库:
 
@@ -251,7 +253,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 136. <kbd>1000-</kbd>[PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE): A Collection of Variational Autoencoders (VAE) in PyTorch.
 137. <kbd>11100+</kbd>[ray](https://github.com/ray-project/ray): A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ray.io
 
-## Tutorials & examples｜教程 & 示例
+## Tutorials & books & examples｜教程 & 书籍 & 示例
 
 1. <kbd>3800+</kbd> [Practical Pytorch](https://github.com/spro/practical-pytorch)**: 该教程对不同的RNN模型进行了解释。
 2. [DeepLearningForNLPInPytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html): IPython Notebook 深度学习教程，包含对自然语言处理的强调。
@@ -319,8 +321,10 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 64. <kbd>1000-</kbd> [NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch): 命名试题识别的PyTorch解决方案，使用了Google AI的预训练BERT模型。
 65. <kbd>1000-</kbd> [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): 如何在 PyTorch 中使用交叉复制（Cross Replica）/同步批标准化（Synchronized Batchnorm）。
 66. <kbd>1000-</kbd> [SentimentAnalysis](https://github.com/barissayil/SentimentAnalysis): 情绪分析神经网络，在斯坦福情绪树库上用微调BERT训练得到。
-67. [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp): C++ implementations of PyTorch tutorials for deep learning researchers (based on the Python tutorials from [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)).
-68. [Deep Learning with PyTorch: Zero to GANs](https://jovian.ml/aakashns/collections/deep-learning-with-pytorch): Interactive and coding-focused tutorial series on introduction to Deep Learning with PyTorch ([video](https://www.youtube.com/watch?v=GIsg-ZUy0MY)).
+67.  <kbd>1000-</kbd> [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp): 为深度学习研究者打造，用 C++ 实现 PyTorch 教程内容（基于 [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) 的Python教程）。
+68. [Deep Learning with PyTorch: Zero to GANs](https://jovian.ml/aakashns/collections/deep-learning-with-pytorch): Deep Learning with PyTorch ([video](https://www.youtube.com/watch?v=GIsg-ZUy0MY))系列在线课程的相关代码。
+69. [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch): Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch, the book includes a case study: building an algorithm capable of detecting malignant lung tumors using CT scans.
+70. [Serverless Machine Learning in Action with PyTorch and AWS](https://www.manning.com/books/serverless-machine-learning-in-action): Serverless Machine Learning in Action is a guide to bringing your experimental PyTorch machine learning code to production using serverless capabilities from major cloud providers like AWS, Azure, or GCP.
 
 ## Paper implementations｜论文实现
 
