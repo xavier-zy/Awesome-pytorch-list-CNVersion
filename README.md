@@ -252,6 +252,8 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 135. <kbd>1000-</kbd> [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer): Collections of modern optimization algorithms for PyTorch, includes: AccSGD, AdaBound, AdaMod, DiffGrad, Lamb, RAdam, RAdam, Yogi.
 136. <kbd>1000-</kbd> [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE): A Collection of Variational Autoencoders (VAE) in PyTorch.
 137. <kbd>12000+</kbd> [ray](https://github.com/ray-project/ray): A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ray.io
+138. <kbd>1000-</kbd> [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal): A temporal extension library for PyTorch Geometric.
+139. <kbd>1000-</kbd> [Poutyne](https://github.com/GRAAL-Research/poutyne): A Keras-like framework for PyTorch that handles much of the boilerplating code needed to train neural networks.
 
 ## Tutorials & books & examples｜教程 & 书籍 & 示例
 
