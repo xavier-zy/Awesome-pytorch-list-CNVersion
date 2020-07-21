@@ -6,18 +6,18 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 ## [English Version](https://github.com/bharathgs/Awesome-pytorch-list)
 
 ## Contents｜内容
-- [Awesome-Pytorch-list｜厉害的Pytorch项目](#awesome-pytorch-list%EF%BD%9C%E5%8E%89%E5%AE%B3%E7%9A%84pytorch%E9%A1%B9%E7%9B%AE)
+- [Awesome-Pytorch-list｜厉害的Pytorch项目](#awesome-pytorch-list%E5%8E%89%E5%AE%B3%E7%9A%84pytorch%E9%A1%B9%E7%9B%AE)
   - [English Version](#english-version)
-  - [Contents｜内容](#contents%EF%BD%9C%E5%86%85%E5%AE%B9)
-  - [Pytorch & related libraries｜Pytorch & 相关库](#pytorch-related-libraries%EF%BD%9Cpytorch-%E7%9B%B8%E5%85%B3%E5%BA%93)
-    - [NLP & Speech Processing｜自然语言处理 & 语音处理:](#nlp-speech-processing%EF%BD%9C%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86-%E8%AF%AD%E9%9F%B3%E5%A4%84%E7%90%86)
-    - [CV｜计算机视觉:](#cv%EF%BD%9C%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)
-    - [Probabilistic/Generative Libraries｜概率库和生成库:](#probabilisticgenerative-libraries%EF%BD%9C%E6%A6%82%E7%8E%87%E5%BA%93%E5%92%8C%E7%94%9F%E6%88%90%E5%BA%93)
-    - [Other libraries｜其他库:](#other-libraries%EF%BD%9C%E5%85%B6%E4%BB%96%E5%BA%93)
-  - [Tutorials & books & examples｜教程 & 书籍 & 示例](#tutorials-books-examples%EF%BD%9C%E6%95%99%E7%A8%8B-%E4%B9%A6%E7%B1%8D-%E7%A4%BA%E4%BE%8B)
-  - [Paper implementations｜论文实现](#paper-implementations%EF%BD%9C%E8%AE%BA%E6%96%87%E5%AE%9E%E7%8E%B0)
-  - [Talks & conferences｜报告 & 会议](#talks-conferences%EF%BD%9C%E6%8A%A5%E5%91%8A-%E4%BC%9A%E8%AE%AE)
-  - [Pytorch elsewhere ｜ Pytorch相关](#pytorch-elsewhere-%EF%BD%9C-pytorch%E7%9B%B8%E5%85%B3)
+  - [Contents｜内容](#contents%E5%86%85%E5%AE%B9)
+  - [Pytorch & related libraries｜Pytorch & 相关库](#pytorch--related-librariespytorch--%E7%9B%B8%E5%85%B3%E5%BA%93)
+    - [NLP & Speech Processing｜自然语言处理 & 语音处理](#nlp--speech-processing%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86--%E8%AF%AD%E9%9F%B3%E5%A4%84%E7%90%86)
+    - [CV｜计算机视觉](#cv%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)
+    - [Probabilistic/Generative Libraries｜概率库和生成库](#probabilisticgenerative-libraries%E6%A6%82%E7%8E%87%E5%BA%93%E5%92%8C%E7%94%9F%E6%88%90%E5%BA%93)
+    - [Other libraries｜其他库](#other-libraries%E5%85%B6%E4%BB%96%E5%BA%93)
+  - [Tutorials & books & examples｜教程 & 书籍 & 示例](#tutorials--books--examples%E6%95%99%E7%A8%8B--%E4%B9%A6%E7%B1%8D--%E7%A4%BA%E4%BE%8B)
+  - [Paper implementations｜论文实现](#paper-implementations%E8%AE%BA%E6%96%87%E5%AE%9E%E7%8E%B0)
+  - [Talks & conferences｜报告 & 会议](#talks--conferences%E6%8A%A5%E5%91%8A--%E4%BC%9A%E8%AE%AE)
+  - [Pytorch elsewhere ｜ Pytorch相关](#pytorch-elsewhere--pytorch%E7%9B%B8%E5%85%B3)
         
 ## Pytorch & related libraries｜Pytorch & 相关库
 
