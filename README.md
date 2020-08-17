@@ -95,10 +95,15 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 24. <kbd>1000-</kbd> [ClassyVision](https://github.com/facebookresearch/ClassyVision): A用于图像和视频分类的端到端PyTorch框架。https://classyvision.ai
 25. <kbd>1000-</kbd> [detecto](https://github.com/alankbi/detecto): 用 5 行代码构建功能完备的计算机视觉模型。https://detecto.readthedocs.io/
 26. <kbd>3200+</kbd> [pytorch3d](https://github.com/facebookresearch/pytorch3d): PyTorch3d 是一个面向深度学习的高效、可复用的 3D 计算机视觉库。 https://pytorch3d.org/
-27. <kbd>10300+</kbd> [MMDetection](https://github.com/open-mmlab/mmdetection): MMDetection 是一个开源的目标检测工具箱，属于 open-mmlab 项目，由 [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/) 开发。
+27. <kbd>10300+</kbd> [MMDetection](https://github.com/open-mmlab/mmdetection): MMDetection 是一个开源的目标检测工具箱，属于 [OpenMMLab 项目](https://open-mmlab.github.io/)。
 28. <kbd>1000-</kbd> [neural-dream](https://github.com/ProGamerGov/neural-dream): DeepDream 算法的 PyTorch 实现，可以创造梦一样的幻觉视觉效果。
 29. <kbd>1000-</kbd> [FlashTorch](https://github.com/MisaOgura/flashtorch): Visualization toolkit for neural networks in PyTorch!
 30. <kbd>1000-</kbd> [Lucent](https://github.com/greentfrapp/lucent): Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
+31. <kbd>1000-</kbd> [MMDetection3D](https://github.com/open-mmlab/mmdetection3d): MMDetection3D is OpenMMLab's next-generation platform for general 3D object detection, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
+32. <kbd>1000-</kbd> [MMSegmentation](https://github.com/open-mmlab/mmsegmentation): MMSegmentation is a semantic segmentation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
+33. <kbd>1500+</kbd> [MMEditing](https://github.com/open-mmlab/mmediting): MMEditing is a image and video editing toolbox, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
+34. <kbd>1000-</kbd> [MMAction2](https://github.com/open-mmlab/mmaction2): MMAction2 is OpenMMLab's next generation action understanding toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
+35. <kbd>1000-</kbd> [MMPose](https://github.com/open-mmlab/mmpose): MMPose is a pose estimation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 
 ### Probabilistic/Generative Libraries｜概率库和生成库:
 
@@ -258,6 +263,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 141. <kbd>1000-</kbd> [Pytorch-contrib](https://github.com/pytorch/contrib): It contains reviewed implementations of ideas from recent machine learning papers.
 142. <kbd>4500+</kbd> [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch): It contains an op-for-op PyTorch reimplementation of EfficientNet, along with pre-trained models and examples.
 143. <kbd>1000-</kbd> [PyTorch/XLA](https://github.com/pytorch/xla): PyTorch/XLA is a Python package that uses the XLA deep learning compiler to connect the PyTorch deep learning framework and Cloud TPUs.
+144. <kbd>1000-</kbd> [webdataset](https://github.com/tmbdev/webdataset): WebDataset is a PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives.
 
 ## Tutorials & books & examples｜教程 & 书籍 & 示例
 
