@@ -264,6 +264,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 142. <kbd>4500+</kbd> [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch): It contains an op-for-op PyTorch reimplementation of EfficientNet, along with pre-trained models and examples.
 143. <kbd>1000-</kbd> [PyTorch/XLA](https://github.com/pytorch/xla): PyTorch/XLA is a Python package that uses the XLA deep learning compiler to connect the PyTorch deep learning framework and Cloud TPUs.
 144. <kbd>1000-</kbd> [webdataset](https://github.com/tmbdev/webdataset): WebDataset is a PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives.
+145. <kbd>1000-</kbd> [volksdep](https://github.com/Media-Smart/volksdep): volksdep is an open-source toolbox for deploying and accelerating PyTorch, Onnx and Tensorflow models with TensorRT.
 
 ## Tutorials & books & examples｜教程 & 书籍 & 示例
 
