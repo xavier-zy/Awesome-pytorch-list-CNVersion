@@ -682,6 +682,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 338. <kbd>1000-</kbd> [NVIDIA/unsupervised-video-interpolation](https://github.com/NVIDIA/unsupervised-video-interpolation): A PyTorch Implementation of [Unsupervised Video Interpolation Using Cycle Consistency](https://arxiv.org/abs/1906.05928), In ICCV 2019.
 339. <kbd>1000-</kbd> [Seg-Uncertainty](https://github.com/layumi/Seg-Uncertainty): Unsupervised Scene Adaptation with Memory Regularization in vivo, In IJCAI 2020.
 340. <kbd>2600+</kbd> [pulse](https://github.com/adamian98/pulse): Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+341. <kbd>1000-</kbd> [distance-encoding](https://github.com/snap-stanford/distance-encoding): Distance-Encoding - Design Provably More PowerfulGNNs for Structural Representation Learning.
 
 ## Talks & conferences｜报告 & 会议
 
