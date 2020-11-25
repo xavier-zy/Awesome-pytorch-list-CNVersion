@@ -66,6 +66,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 39. <kbd>1000-</kbd> [espresso](https://github.com/freewym/espresso): Espresso: 快速的端到端神经语音识别工具集。
 40. <kbd>29700+</kbd> [transformers](https://github.com/huggingface/transformers): huggingface Transformers: TensorFlow 2.0  和 PyTorch 上最先进的NLP工具。huggingface.co/transformers
 41. <kbd>1000+</kbd> [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch): [Reformer](https://openreview.net/pdf?id=rkgNKkHtvB) 的 PyTorch 版。
+42. <kbd>1000-</kbd> [torch-metrics](https://github.com/enochkan/torch-metrics): PyTorch 中的模型评估指标。
 
 ### CV｜计算机视觉:
 
