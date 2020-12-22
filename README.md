@@ -105,6 +105,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 33. <kbd>1500+</kbd> [MMEditing](https://github.com/open-mmlab/mmediting): MMEditing is a image and video editing toolbox, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 34. <kbd>1000-</kbd> [MMAction2](https://github.com/open-mmlab/mmaction2): MMAction2 is OpenMMLab's next generation action understanding toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 35. <kbd>1000-</kbd> [MMPose](https://github.com/open-mmlab/mmpose): MMPose is a pose estimation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
+36. <kbd>1000-</kbd> [lightly](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 
 ### Probabilistic/Generative Libraries｜概率库和生成库:
 
