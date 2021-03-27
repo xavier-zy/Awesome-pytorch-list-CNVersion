@@ -67,6 +67,8 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 40. <kbd>29700+</kbd> [transformers](https://github.com/huggingface/transformers): huggingface Transformers: TensorFlow 2.0  和 PyTorch 上最先进的NLP工具。huggingface.co/transformers
 41. <kbd>1000+</kbd> [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch): [Reformer](https://openreview.net/pdf?id=rkgNKkHtvB) 的 PyTorch 版。
 42. <kbd>1000-</kbd> [torch-metrics](https://github.com/enochkan/torch-metrics): PyTorch 中的模型评估指标。
+43. <kbd>1600+</kbd> [speechbrain](https://github.com/speechbrain/speechbrain): SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch.
+44. <kbd>1000-</kbd> [Backprop](https://github.com/backprop-ai/backprop): Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 
 ### CV｜计算机视觉:
 
@@ -267,6 +269,8 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 143. <kbd>1000-</kbd> [PyTorch/XLA](https://github.com/pytorch/xla): PyTorch/XLA is a Python package that uses the XLA deep learning compiler to connect the PyTorch deep learning framework and Cloud TPUs.
 144. <kbd>1000-</kbd> [webdataset](https://github.com/tmbdev/webdataset): WebDataset is a PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives.
 145. <kbd>1000-</kbd> [volksdep](https://github.com/Media-Smart/volksdep): volksdep is an open-source toolbox for deploying and accelerating PyTorch, Onnx and Tensorflow models with TensorRT.
+146. <kbd>1600+</kbd> [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN): StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. StudioGAN aims to offer an identical playground for modern GANs so that machine learning researchers can readily compare and analyze a new idea.
+147. <kbd>1000-</kbd> [torchdrift](https://github.com/torchdrift/torchdrift/): drift detection library
 
 ## Tutorials & books & examples｜教程 & 书籍 & 示例
 
@@ -340,6 +344,7 @@ Awesome-Pytorch-list｜厉害的Pytorch项目
 68. [Deep Learning with PyTorch: Zero to GANs](https://jovian.ml/aakashns/collections/deep-learning-with-pytorch): Deep Learning with PyTorch ([video](https://www.youtube.com/watch?v=GIsg-ZUy0MY))系列在线课程的相关代码。
 69. [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch): Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch, the book includes a case study: building an algorithm capable of detecting malignant lung tumors using CT scans.
 70. [Serverless Machine Learning in Action with PyTorch and AWS](https://www.manning.com/books/serverless-machine-learning-in-action): Serverless Machine Learning in Action is a guide to bringing your experimental PyTorch machine learning code to production using serverless capabilities from major cloud providers like AWS, Azure, or GCP.
+71. <kbd>2600+</kbd> [LabML NN](https://github.com/lab-ml/nn): A collection of PyTorch implementations of neural networks architectures and algorithms with side-by-side notes.
 
 ## Paper implementations｜论文实现
 
@@ -685,6 +690,8 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 339. <kbd>1000-</kbd> [Seg-Uncertainty](https://github.com/layumi/Seg-Uncertainty): Unsupervised Scene Adaptation with Memory Regularization in vivo, In IJCAI 2020.
 340. <kbd>2600+</kbd> [pulse](https://github.com/adamian98/pulse): Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 341. <kbd>1000-</kbd> [distance-encoding](https://github.com/snap-stanford/distance-encoding): Distance-Encoding - Design Provably More PowerfulGNNs for Structural Representation Learning.
+342. <kbd>1000-</kbd> [Pathfinder Discovery Networks](https://github.com/benedekrozemberczki/PDN): Pathfinder Discovery Networks for Neural Message Passing.
+343. <kbd>1000-</kbd> [PyKEEN](https://github.com/pykeen/pykeen): A Python library for learning and evaluating knowledge graph embeddings
 
 ## Talks & conferences｜报告 & 会议
 
